@@ -1,6 +1,6 @@
 # AWESOME Azure Bicep
 
-[![Awesome Azure Bicep](./awesome-bicep.jpg)](https://github.com/ElYusubov)
+[![Awesome Azure Bicep](./images/awesome-bicep.jpg)](https://github.com/ElYusubov)
 
 A curated list of AWESOME blogs, videos, tutorials, tips, codes, tools, scripts... 
 anything which can help you learn Azure Bicep and quickly get started with designing, planning, and deploying Azure core resources to your environment.
