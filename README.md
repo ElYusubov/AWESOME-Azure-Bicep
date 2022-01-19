@@ -84,5 +84,7 @@ anything which can help you learn Azure Bicep and quickly get started with desig
 
 - [Bicep type definitions for ARM resources](https://github.com/Azure/bicep-types-az)
 - [Learn Bicep](https://github.com/ElYusubov/Learn-Bicep)
+- [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction)
+- [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
 - [Azure-Policy-As-Code](https://github.com/globalbao/azure-policy-as-code)
