@@ -71,6 +71,7 @@ anything which can help you learn Azure Bicep and quickly get started with desig
 - [What are the good options to manage sensitive info in Azure Bicep?](https://thecloudmarathoner.com/index.php/2021/11/16/managing-azure-bicep-sensitive-info-with-key-vault/)
 - [Hardening parameter inputs on Azure Bicep files](https://thecloudmarathoner.com/index.php/2021/10/22/hardening-parameter-inputs-on-azure-bicep-files/)
 - [Deploying Azure Bicep using GitHub Actions](https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/)
+- [Get a consistent Azure naming convention with Bicep modules](https://4bes.nl/2021/10/10/get-a-consistent-azure-naming-convention-with-bicep-modules/)
 
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
@@ -82,3 +83,6 @@ anything which can help you learn Azure Bicep and quickly get started with desig
 [Back To Top](#Table-Of-Contents)
 
 - [Bicep type definitions for ARM resources](https://github.com/Azure/bicep-types-az)
+- [Learn Bicep](https://github.com/ElYusubov/Learn-Bicep)
+- [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
+- [Azure-Policy-As-Code](https://github.com/globalbao/azure-policy-as-code)
