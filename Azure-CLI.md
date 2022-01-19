@@ -1,0 +1,3 @@
+# AWESOME Azure Bicep 💪 with CLI
+
+A quick start developer guide to build Azure with CLI (Command Line Interface) ... 

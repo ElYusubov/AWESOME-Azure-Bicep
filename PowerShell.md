@@ -1,0 +1,3 @@
+# AWESOME Azure Bicep 💪 with PowerShell
+
+A quick start developer guide to build Azure with PowerShell ... 
