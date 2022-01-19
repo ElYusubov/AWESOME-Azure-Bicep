@@ -29,7 +29,7 @@ anything which can help you learn Azure Bicep and quickly get started with desig
 - [Part 2: Intermediate Bicep](https://docs.microsoft.com/en-us/learn/paths/intermediate-bicep/)
 - [Part 3: Advanced Bicep](https://docs.microsoft.com/en-us/learn/paths/advanced-bicep/)
 - [Option 1: Deploy Azure resources by using Bicep and Azure Pipelines](https://docs.microsoft.com/en-us/learn/paths/bicep-azure-pipelines/)
-- [Option 2: https://docs.microsoft.com/en-us/learn/paths/bicep-github-actions/](https://docs.microsoft.com/en-us/learn/paths/bicep-github-actions/)
+- [Option 2: Deploy Azure resources by using Bicep and GitHub Actions](https://docs.microsoft.com/en-us/learn/paths/bicep-github-actions/)
 
 
 ### Official Docs
@@ -55,6 +55,8 @@ anything which can help you learn Azure Bicep and quickly get started with desig
 
 - [Azure Bicep First Look - LinkedIn](https://www.linkedin.com/learning/azure-bicep-first-look/learning-azure-bicep)
 - [Understanding and Using Project BICEP - The NEW Azure Deployment Technology](https://youtu.be/_yvb6NVx61Y)
+- [Transforming ARM into Azure Bicep](https://youtu.be/T2-bm_gmLCI)
+- [Azure Bicep: Get Up and Running](https://youtu.be/xF1wlYH1QrI)
 
 ### Community Books
 [Back To Top](#Table-Of-Contents)
@@ -65,6 +67,7 @@ anything which can help you learn Azure Bicep and quickly get started with desig
 [Back To Top](#Table-Of-Contents)
 
 - [Getting Started with Azure Bicep (Step-by-Step)](https://adamtheautomator.com/azure-bicep/)
+- [Azure Bicep with Cloud Marathoner's Journey](https://thecloudmarathoner.com/index.php/category/azure-bicep/)
 - [What are the good options to manage sensitive info in Azure Bicep?](https://thecloudmarathoner.com/index.php/2021/11/16/managing-azure-bicep-sensitive-info-with-key-vault/)
 - [Hardening parameter inputs on Azure Bicep files](https://thecloudmarathoner.com/index.php/2021/10/22/hardening-parameter-inputs-on-azure-bicep-files/)
 - [Deploying Azure Bicep using GitHub Actions](https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/)
