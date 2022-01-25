@@ -58,6 +58,8 @@ anything which can help you learn Azure Bicep and quickly get started with desig
 - [Understanding and Using Project BICEP - The NEW Azure Deployment Technology](https://youtu.be/_yvb6NVx61Y)
 - [Transforming ARM into Azure Bicep](https://youtu.be/T2-bm_gmLCI)
 - [Azure Bicep: Get Up and Running](https://youtu.be/xF1wlYH1QrI)
+- [Bicep vs Terraform - A fair and balanced comparison](https://youtu.be/3lTrIgTJ9yc)
+- [Mert to the Future #10 - Using Bicep to Create Your Azure Data Solution with Heini Ilmarinen](https://youtu.be/x7scP0xFoqo)
 
 ### Community Books
 [Back To Top](#Table-Of-Contents)
