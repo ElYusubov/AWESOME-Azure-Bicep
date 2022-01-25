@@ -1,4 +1,5 @@
 # AWESOME Azure Bicep 💪
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of AWESOME blogs, videos, tutorials, tips, codes, tools, scripts... 
 anything which can help you learn Azure Bicep and quickly get started with designing, planning, and deploying Azure core resources to your environment.
@@ -77,6 +78,7 @@ anything which can help you learn Azure Bicep and quickly get started with desig
 [Back To Top](#Table-Of-Contents)
 
 - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
+- [AzAdvertizer](https://www.azadvertizer.net/)
 
 
 ### Community Repositories
