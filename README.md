@@ -4,7 +4,7 @@
 A curated list of AWESOME blogs, videos, tips-and-tricks, codes, tools, scripts...
 Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to start deploying Azure resources to your favorite environment(s).
 
-> Community contributions are very welcome! Feel free to submit a **pull request** with any adds/removes/changes to content!
+> Community contributions are very welcome! Check out our [contributing guidlines](./Contributing-Guidelines.md) and submit a **Pull Request** with your adds/removes/changes to the content!
 
 ## Table Of Contents
 
