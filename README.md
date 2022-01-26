@@ -4,7 +4,7 @@
 A curated list of AWESOME blogs, videos, tips-and-tricks, codes, tools, scripts...
 Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to start deploying Azure resources to your favorite environment(s).
 
-> Community contributions are very welcome! Check out our [contributing guidlines](./Contributing-Guidelines.md) and submit a **Pull Request** with your adds/removes/changes to the content!
+> Community contributions are very welcome! Check out the [contribution guide](./contribution-guide.md) and submit a **Pull Request** with your adds/removes/changes to the content!
 
 ## Table Of Contents
 
@@ -12,6 +12,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
    - [Learn](#Official-Learn)
    - [Docs](#Official-Docs)
    - [Videos](#Official-Videos)
+   - [Repositories](#Official-Repositories)
 - [Community](#Community)
    - [Videos](#Community-Videos)
    - [Books](#Community-Books)
@@ -46,6 +47,14 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 - [Learn everything about the next generation of ARM Templates](https://www.youtube.com/watch?v=sc1kJfcRQgY&t=6s)
 - [How to use Azure Bicep for developing ARM templates | Azure Tips and Tricks](https://youtu.be/atWVFV7Y4vY)
+
+### Official Repositories
+[Back To Top](#Table-Of-Contents)
+
+- [Bicep type definitions for ARM resources](https://github.com/Azure/bicep-types-az)
+- [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction)
+- [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
+- [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
 
 ## Community
 
@@ -86,10 +95,10 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 ### Community Repositories
 [Back To Top](#Table-Of-Contents)
 
-- [Bicep type definitions for ARM resources](https://github.com/Azure/bicep-types-az)
-- [Learn Bicep](https://github.com/ElYusubov/Learn-Bicep)
-- [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction)
-- [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
-- [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
-- [Azure-Policy-As-Code](https://github.com/globalbao/azure-policy-as-code)
-- [Common Azure Resource Modules Library](https://github.com/Azure/ResourceModules)
+- [ElYusubov/Learn-Bicep](https://github.com/ElYusubov/Learn-Bicep)
+- [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code)
+- [fberson/wvd](https://github.com/fberson/wvd)
+- [Ba4bes/Bicep-NamingConvention](https://github.com/Ba4bes/Bicep-NamingConvention)
+- [jaydestro/aksbicep](https://github.com/jaydestro/aksbicep)
+- [lordlinus/databricks-all-in-one-bicep-template](https://github.com/lordlinus/databricks-all-in-one-bicep-template)
+- [fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure](https://github.com/fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure)
