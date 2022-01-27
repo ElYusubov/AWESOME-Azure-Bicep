@@ -40,8 +40,12 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 - [Bicep documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 - [What is Bicep?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
+- [Bicep file structure and syntax](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/file)
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Quickstart: Intro to Bicep with Web App and DB](https://azure.github.io/AppService/2021/07/23/Quickstart-Intro-to-Bicep-with-Web-App-plus-DB.html)
+- [How to deploy resources with Bicep and Azure CLI](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cli)
+- [Deploy resources with Bicep and Azure PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell)
+- [Deploy Bicep files from Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cloud-shell?tabs=azure-cli)
 
 ### Official Videos
 [Back To Top](#Table-Of-Contents)
@@ -79,8 +83,8 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 ### Community Articles
 [Back To Top](#Table-Of-Contents)
 
-- [Getting Started with Azure Bicep (Step-by-Step)](https://adamtheautomator.com/azure-bicep/)
-- [Azure Bicep with Cloud Marathoner's Journey](https://thecloudmarathoner.com/index.php/category/azure-bicep/)
+- [Azure Bicep: Getting started guide](https://4sysops.com/archives/azure-bicep-getting-started-guide/)
+- [Azure Bicep posts on Cloud Marathoner's Journey](https://thecloudmarathoner.com/index.php/category/azure-bicep/)
 - [What are the good options to manage sensitive info in Azure Bicep?](https://thecloudmarathoner.com/index.php/2021/11/16/managing-azure-bicep-sensitive-info-with-key-vault/)
 - [Hardening parameter inputs on Azure Bicep files](https://thecloudmarathoner.com/index.php/2021/10/22/hardening-parameter-inputs-on-azure-bicep-files/)
 - [Deploying Azure Bicep using GitHub Actions](https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/)
