@@ -60,6 +60,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction)
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
+- [Bicep samples for documentation](https://github.com/Azure/azure-docs-bicep-samples)
 
 ## Community
 
@@ -110,3 +111,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [jaydestro/aksbicep](https://github.com/jaydestro/aksbicep)
 - [lordlinus/databricks-all-in-one-bicep-template](https://github.com/lordlinus/databricks-all-in-one-bicep-template)
 - [fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure](https://github.com/fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure)
+- [scautomation/Bicep-AzureMonitor-Sentinel](https://github.com/scautomation/Bicep-AzureMonitor-Sentinel)
+- [gbaeke/aks-bicep](https://github.com/gbaeke/aks-bicep)
+- [PSBicep - Bicep PowerShell Module](https://github.com/PSBicep/PSBicep)
+- [jamesatighe/AVD-BICEP](https://github.com/jamesatighe/AVD-BICEP)
