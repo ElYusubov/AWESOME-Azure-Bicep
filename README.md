@@ -79,6 +79,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Bicep: Get Up and Running](https://youtu.be/xF1wlYH1QrI)
 - [Bicep vs Terraform - A fair and balanced comparison](https://youtu.be/3lTrIgTJ9yc)
 - [Mert to the Future #10 - Using Bicep to Create Your Azure Data Solution with Heini Ilmarinen](https://youtu.be/x7scP0xFoqo)
+- [Getting Started with Azure Bicep](https://www.youtube.com/watch?v=77AfsFzTsI4)
 
 ### Community Books
 [Back To Top](#Table-Of-Contents)
@@ -97,7 +98,9 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Why is Azure Bicep your next choice for Infrastructure As Code?](https://medium.com/codex/why-is-azure-bicep-your-next-choice-for-infrastructure-as-code-f10a2b924ca7)
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
 - [Azure Bicep Playground: Transitioning from ARM templates into Bicep](https://medium.com/codex/azure-bicep-playground-transitioning-from-arm-templates-into-bicep-5c10c864c863)
-- [Deploy Azure Iinfrastructure with Azure Bicep](https://www.kallemarjokorpi.fi/blog/deploy-azure-infrastructure-with-azure-bicep.html)
+- [Deploy Azure Infrastructure with Azure Bicep](https://www.kallemarjokorpi.fi/blog/deploy-azure-infrastructure-with-azure-bicep.html)
+- [Getting started with Project Bicep for Azure ARM](https://msftplayground.com/2020/10/getting-started-with-project-bicep-for-azure-arm/)
+- [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
 
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
