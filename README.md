@@ -46,12 +46,16 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [How to deploy resources with Bicep and Azure CLI](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cli)
 - [Deploy resources with Bicep and Azure PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell)
 - [Deploy Bicep files from Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cloud-shell?tabs=azure-cli)
+- [Migrate to Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate)
+- [Configure your Bicep environment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config)
+- [Best practices for Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices)
 
 ### Official Videos
 [Back To Top](#Table-Of-Contents)
 
 - [Learn everything about the next generation of ARM Templates](https://www.youtube.com/watch?v=sc1kJfcRQgY&t=6s)
 - [How to use Azure Bicep for developing ARM templates | Azure Tips and Tricks](https://youtu.be/atWVFV7Y4vY)
+- [Level up your skills with Bicep!](https://devblogs.microsoft.com/devops/level-up-your-skills-with-bicep/)
 
 ### Official Repositories
 [Back To Top](#Table-Of-Contents)
@@ -93,6 +97,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Why is Azure Bicep your next choice for Infrastructure As Code?](https://medium.com/codex/why-is-azure-bicep-your-next-choice-for-infrastructure-as-code-f10a2b924ca7)
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
 - [Azure Bicep Playground: Transitioning from ARM templates into Bicep](https://medium.com/codex/azure-bicep-playground-transitioning-from-arm-templates-into-bicep-5c10c864c863)
+- [Deploy Azure Iinfrastructure with Azure Bicep](https://www.kallemarjokorpi.fi/blog/deploy-azure-infrastructure-with-azure-bicep.html)
 
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
