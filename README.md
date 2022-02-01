@@ -56,6 +56,8 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Learn everything about the next generation of ARM Templates](https://www.youtube.com/watch?v=sc1kJfcRQgY&t=6s)
 - [How to use Azure Bicep for developing ARM templates | Azure Tips and Tricks](https://youtu.be/atWVFV7Y4vY)
 - [Level up your skills with Bicep!](https://devblogs.microsoft.com/devops/level-up-your-skills-with-bicep/)
+- [Bicep Community Call - January '22](https://youtu.be/nDlH6TiOedI)
+- [Bicep Community Calls & Azure Deployment & Governance Channel](https://www.youtube.com/channel/UCZZ3-oMrVI5ssheMzaWC4uQ/videos)
 
 ### Official Repositories
 [Back To Top](#Table-Of-Contents)
