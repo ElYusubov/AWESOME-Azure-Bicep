@@ -16,9 +16,10 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
    - [Repositories](#Official-Repositories)
 - [Community](#Community)
    - [Videos](#Community-Videos)
-   - [Books](#Community-Books)
+   - [Podcasts](#Community-Podcasts)
    - [Articles](#Community-Articles)
    - [Tools](#Community-Tools)
+   - [Books](#Community-Books)
    - [Repositories](#Community-Repositories)
 
 ## Official
@@ -82,6 +83,15 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep vs Terraform - A fair and balanced comparison](https://youtu.be/3lTrIgTJ9yc)
 - [Mert to the Future #10 - Using Bicep to Create Your Azure Data Solution with Heini Ilmarinen](https://youtu.be/x7scP0xFoqo)
 - [Getting Started with Azure Bicep](https://www.youtube.com/watch?v=77AfsFzTsI4)
+
+### Community Podcasts
+[Back To Top](#Table-Of-Contents)
+
+- [Episode 21: Bicep with Alex Frankel](https://unhandledexceptionpodcast.com/posts/0021-bicep/)
+- [How to deploy an SAP system using Azure Bicep](https://podcasts.apple.com/gb/podcast/71-the-one-with-bicep-and-looking-at-cee-jan-tretina/id1531372929?i=1000544576527)
+- [079 - We're talking about Azure Bicep](https://podtail.com/en/podcast/ctrl-alt-azure/079-we-re-talking-about-azure-bicep/)
+- [EP7: Getting Started with Azure Bicep](https://open.spotify.com/episode/6DgZwTnALUc9gCI5RUDfDC)
+
 
 ### Community Books
 [Back To Top](#Table-Of-Contents)
