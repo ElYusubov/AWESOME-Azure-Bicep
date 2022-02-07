@@ -5,7 +5,7 @@ A curated list of AWESOME blogs, videos, tips-and-tricks, codes, tools, scripts.
 Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to start deploying Azure resources to your favorite environment(s).
 
 
-> Community contributions are very welcome! Check out the [contribution guide](./contribution-guide.md) and submit a **Pull Request** with your adds/removes/changes to the content!
+> Community contributions are very welcome! Check out the [contribution guide](./CONTRIBUTING.md) and submit a **Pull Request** with your adds/removes/changes to the content!
 
 ## Table Of Contents
 
@@ -16,9 +16,10 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
    - [Repositories](#Official-Repositories)
 - [Community](#Community)
    - [Videos](#Community-Videos)
-   - [Books](#Community-Books)
+   - [Podcasts](#Community-Podcasts)
    - [Articles](#Community-Articles)
    - [Tools](#Community-Tools)
+   - [Books](#Community-Books)
    - [Repositories](#Community-Repositories)
 
 ## Official
@@ -46,12 +47,18 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [How to deploy resources with Bicep and Azure CLI](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cli)
 - [Deploy resources with Bicep and Azure PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell)
 - [Deploy Bicep files from Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cloud-shell?tabs=azure-cli)
+- [Migrate to Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate)
+- [Configure your Bicep environment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config)
+- [Best practices for Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices)
 
 ### Official Videos
 [Back To Top](#Table-Of-Contents)
 
 - [Learn everything about the next generation of ARM Templates](https://www.youtube.com/watch?v=sc1kJfcRQgY&t=6s)
 - [How to use Azure Bicep for developing ARM templates | Azure Tips and Tricks](https://youtu.be/atWVFV7Y4vY)
+- [Level up your skills with Bicep!](https://devblogs.microsoft.com/devops/level-up-your-skills-with-bicep/)
+- [Bicep Community Call - January '22](https://youtu.be/nDlH6TiOedI)
+- [Bicep Community Calls & Azure Deployment & Governance Channel](https://www.youtube.com/channel/UCZZ3-oMrVI5ssheMzaWC4uQ/videos)
 
 ### Official Repositories
 [Back To Top](#Table-Of-Contents)
@@ -60,6 +67,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction)
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
+- [Bicep samples for documentation](https://github.com/Azure/azure-docs-bicep-samples)
 
 ## Community
 
@@ -74,6 +82,16 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Bicep: Get Up and Running](https://youtu.be/xF1wlYH1QrI)
 - [Bicep vs Terraform - A fair and balanced comparison](https://youtu.be/3lTrIgTJ9yc)
 - [Mert to the Future #10 - Using Bicep to Create Your Azure Data Solution with Heini Ilmarinen](https://youtu.be/x7scP0xFoqo)
+- [Getting Started with Azure Bicep](https://www.youtube.com/watch?v=77AfsFzTsI4)
+
+### Community Podcasts
+[Back To Top](#Table-Of-Contents)
+
+- [Episode 21: Bicep with Alex Frankel](https://unhandledexceptionpodcast.com/posts/0021-bicep/)
+- [How to deploy an SAP system using Azure Bicep](https://podcasts.apple.com/gb/podcast/71-the-one-with-bicep-and-looking-at-cee-jan-tretina/id1531372929?i=1000544576527)
+- [079 - We're talking about Azure Bicep](https://podtail.com/en/podcast/ctrl-alt-azure/079-we-re-talking-about-azure-bicep/)
+- [EP7: Getting Started with Azure Bicep](https://open.spotify.com/episode/6DgZwTnALUc9gCI5RUDfDC)
+
 
 ### Community Books
 [Back To Top](#Table-Of-Contents)
@@ -92,6 +110,9 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Why is Azure Bicep your next choice for Infrastructure As Code?](https://medium.com/codex/why-is-azure-bicep-your-next-choice-for-infrastructure-as-code-f10a2b924ca7)
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
 - [Azure Bicep Playground: Transitioning from ARM templates into Bicep](https://medium.com/codex/azure-bicep-playground-transitioning-from-arm-templates-into-bicep-5c10c864c863)
+- [Deploy Azure Infrastructure with Azure Bicep](https://www.kallemarjokorpi.fi/blog/deploy-azure-infrastructure-with-azure-bicep.html)
+- [Getting started with Project Bicep for Azure ARM](https://msftplayground.com/2020/10/getting-started-with-project-bicep-for-azure-arm/)
+- [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
 
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
@@ -110,3 +131,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [jaydestro/aksbicep](https://github.com/jaydestro/aksbicep)
 - [lordlinus/databricks-all-in-one-bicep-template](https://github.com/lordlinus/databricks-all-in-one-bicep-template)
 - [fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure](https://github.com/fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure)
+- [scautomation/Bicep-AzureMonitor-Sentinel](https://github.com/scautomation/Bicep-AzureMonitor-Sentinel)
+- [gbaeke/aks-bicep](https://github.com/gbaeke/aks-bicep)
+- [PSBicep - Bicep PowerShell Module](https://github.com/PSBicep/PSBicep)
+- [jamesatighe/AVD-BICEP](https://github.com/jamesatighe/AVD-BICEP)
