@@ -97,6 +97,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#Table-Of-Contents)
 
 - [Getting started with Bicep: Infrastructure as code](https://www.amazon.com/Getting-started-Bicep-Infrastructure-Azure-ebook/dp/B0984MQY2N)
+- [Azure Infrastructure as Code - With ARM templates and Bicep](https://www.manning.com/books/azure-infrastructure-as-code)
 
 ### Community Articles
 [Back To Top](#Table-Of-Contents)
@@ -113,6 +114,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Deploy Azure Infrastructure with Azure Bicep](https://www.kallemarjokorpi.fi/blog/deploy-azure-infrastructure-with-azure-bicep.html)
 - [Getting started with Project Bicep for Azure ARM](https://msftplayground.com/2020/10/getting-started-with-project-bicep-for-azure-arm/)
 - [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
+- [Deploy Ubuntu VM with Prometheus and Grafana using Bicep Language](https://blog.azinsider.net/deploy-ubuntu-vm-with-prometheus-and-grafana-using-bicep-language-ca8164650482)
 
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
