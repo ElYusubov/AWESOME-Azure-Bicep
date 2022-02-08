@@ -68,6 +68,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
 - [Bicep samples for documentation](https://github.com/Azure/azure-docs-bicep-samples)
+- [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep)
 
 ## Community
 
