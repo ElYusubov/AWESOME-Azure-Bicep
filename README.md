@@ -41,6 +41,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 - [Bicep documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 - [What is Bicep?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
+- [Install Bicep tools](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/install)
 - [Bicep file structure and syntax](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/file)
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Quickstart: Intro to Bicep with Web App and DB](https://azure.github.io/AppService/2021/07/23/Quickstart-Intro-to-Bicep-with-Web-App-plus-DB.html)
