@@ -117,6 +117,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Getting started with Project Bicep for Azure ARM](https://msftplayground.com/2020/10/getting-started-with-project-bicep-for-azure-arm/)
 - [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
 - [Deploy Ubuntu VM with Prometheus and Grafana using Bicep Language](https://blog.azinsider.net/deploy-ubuntu-vm-with-prometheus-and-grafana-using-bicep-language-ca8164650482)
+- [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
 
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
