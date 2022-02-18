@@ -125,7 +125,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
 - [AzAdvertizer](https://www.azadvertizer.net/)
 
-
 ### Community Repositories
 [Back To Top](#Table-Of-Contents)
 
@@ -140,3 +139,4 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [gbaeke/aks-bicep](https://github.com/gbaeke/aks-bicep)
 - [PSBicep - Bicep PowerShell Module](https://github.com/PSBicep/PSBicep)
 - [jamesatighe/AVD-BICEP](https://github.com/jamesatighe/AVD-BICEP)
+- [your-azure-coach/bicep-azdevops](https://github.com/your-azure-coach/bicep-azdevops)
