@@ -1,6 +1,6 @@
 # AWESOME Azure Bicep 💪 with CLI
 
-A quick start developer guide to build & manage Bicep files with CLI (Command Line Interface) commands ... 
+A quick start developer guide to build and manage Azure Bicep files with CLI (Command Line Interface) commands ... 
 
 You must have Azure CLI version 2.20.0 or later installed. To install or update Azure CLI, see:
 
