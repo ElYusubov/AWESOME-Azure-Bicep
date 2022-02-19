@@ -1,6 +1,6 @@
 # AWESOME Azure Bicep 💪 with PowerShell
 
-A quick start developer guide to manage & build Bicep files with PowerShell commands... 
+A quick start and developer guide to manage & build Azure Bicep files with PowerShell commands... 
 
 You must have Azure PowerShell version 5.6.0 or later installed. To update or install, see [Install Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-7.2.0).
 
