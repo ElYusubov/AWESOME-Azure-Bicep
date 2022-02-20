@@ -51,6 +51,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Migrate to Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate)
 - [Configure your Bicep environment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config)
 - [Best practices for Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices)
+- [How to use Azure Bicep for developing ARM templates - Jan 5, 2022](https://microsoft.github.io/AzureTipsAndTricks/blog/tip347.html)
 
 ### Official Videos
 [Back To Top](#Table-Of-Contents)
@@ -85,6 +86,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep vs Terraform - A fair and balanced comparison](https://youtu.be/3lTrIgTJ9yc)
 - [Mert to the Future #10 - Using Bicep to Create Your Azure Data Solution with Heini Ilmarinen](https://youtu.be/x7scP0xFoqo)
 - [Getting Started with Azure Bicep](https://www.youtube.com/watch?v=77AfsFzTsI4)
+- [Project Bicep Azure Infrastructure as Code (ARM Template Alternative) - Feb 22, 2021](https://youtu.be/F1zzrnXQwKU)
 
 ### Community Podcasts
 [Back To Top](#Table-Of-Contents)
@@ -118,6 +120,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
 - [Deploy Ubuntu VM with Prometheus and Grafana using Bicep Language](https://blog.azinsider.net/deploy-ubuntu-vm-with-prometheus-and-grafana-using-bicep-language-ca8164650482)
 - [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
+- [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
 
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
