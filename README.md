@@ -87,6 +87,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Mert to the Future #10 - Using Bicep to Create Your Azure Data Solution with Heini Ilmarinen](https://youtu.be/x7scP0xFoqo)
 - [Getting Started with Azure Bicep](https://www.youtube.com/watch?v=77AfsFzTsI4)
 - [Project Bicep Azure Infrastructure as Code (ARM Template Alternative) - Feb 22, 2021](https://youtu.be/F1zzrnXQwKU)
+- [Embrace Infrastructure as Code Right Now With Azure Bicep - Nashville Azure Users Group - Feb 18, 2022](https://youtu.be/lpCHYNP50Bw)
 
 ### Community Podcasts
 [Back To Top](#Table-Of-Contents)
