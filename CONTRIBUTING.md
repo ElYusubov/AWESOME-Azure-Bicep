@@ -1,4 +1,4 @@
-# Steps To Contribute To AWESOME-Azure-Bicep 💪
+# Steps to Contribute to the AWESOME-Azure-Bicep 💪
 
 1. Review the **contribution standards** and **contribution sections** below.
 2. Edit the [README.md](https://github.com/ElYusubov/AWESOME-Azure-Bicep/blob/main/README.md) file.
@@ -24,13 +24,13 @@
   - Docs
   - Videos
   - Announcements and Articles
-  - Repositories and Tools
+  - Repositories
   - Forums and Feedback
 - Community
   - Videos
   - Podcasts
-  - Books
   - Articles
   - Tools
+  - Books
   - Repositories
   - Forums
