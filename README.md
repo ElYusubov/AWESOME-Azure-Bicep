@@ -13,7 +13,9 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
    - [Learn](#Official-Learn)
    - [Docs](#Official-Docs)
    - [Videos](#Official-Videos)
+   - [Announcements and Articles](#Announcements-and-Articles)
    - [Repositories](#Official-Repositories)
+   - [Forums and Feedback](#Forums-and-Feedback)
 - [Community](#Community)
    - [Videos](#Community-Videos)
    - [Podcasts](#Community-Podcasts)
@@ -21,6 +23,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
    - [Tools](#Community-Tools)
    - [Books](#Community-Books)
    - [Repositories](#Community-Repositories)
+   - [Forums](#Community-Forums)
 
 ## Official
 
@@ -62,6 +65,11 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep Community Call - January '22](https://youtu.be/nDlH6TiOedI)
 - [Bicep Community Calls & Azure Deployment & Governance Channel](https://www.youtube.com/channel/UCZZ3-oMrVI5ssheMzaWC4uQ/videos)
 
+
+### Announcements and Articles
+[Back To Top](#Table-Of-Contents)
+
+
 ### Official Repositories
 [Back To Top](#Table-Of-Contents)
 
@@ -71,6 +79,10 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
 - [Bicep samples for documentation](https://github.com/Azure/azure-docs-bicep-samples)
 - [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep)
+
+
+### Forums and Feedback
+[Back To Top](#Table-Of-Contents)
 
 ## Community
 
@@ -144,3 +156,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [PSBicep - Bicep PowerShell Module](https://github.com/PSBicep/PSBicep)
 - [jamesatighe/AVD-BICEP](https://github.com/jamesatighe/AVD-BICEP)
 - [your-azure-coach/bicep-azdevops](https://github.com/your-azure-coach/bicep-azdevops)
+
+### Community Forums
+[Back To Top](#Table-Of-Contents)
