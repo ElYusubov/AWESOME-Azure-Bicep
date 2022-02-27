@@ -55,6 +55,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Configure your Bicep environment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config)
 - [Best practices for Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices)
 - [How to use Azure Bicep for developing ARM templates - Jan 5, 2022](https://microsoft.github.io/AzureTipsAndTricks/blog/tip347.html)
+- [Publish Bicep modules to private module registry](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-private-module-registry?tabs=azure-cli)
 
 ### Official Videos
 [Back To Top](#Table-Of-Contents)
