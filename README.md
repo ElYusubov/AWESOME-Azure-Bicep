@@ -135,6 +135,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Deploy Ubuntu VM with Prometheus and Grafana using Bicep Language](https://blog.azinsider.net/deploy-ubuntu-vm-with-prometheus-and-grafana-using-bicep-language-ca8164650482)
 - [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
+- [Simplifying Azure IaC with Azure Bicep child resources](https://thecloudmarathoner.com/index.php/2022/03/01/simplifying-azure-iac-with-azure-bicep-child-resources/)
 
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
