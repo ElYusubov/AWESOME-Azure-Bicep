@@ -101,6 +101,9 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Getting Started with Azure Bicep](https://www.youtube.com/watch?v=77AfsFzTsI4)
 - [Project Bicep Azure Infrastructure as Code (ARM Template Alternative) - Feb 22, 2021](https://youtu.be/F1zzrnXQwKU)
 - [Embrace Infrastructure as Code Right Now With Azure Bicep - Nashville Azure Users Group - Feb 18, 2022](https://youtu.be/lpCHYNP50Bw)
+- [Day 15 - Let's flex our Biceps to help Santa by Marco Obinu](https://youtu.be/JFBul3x_1xU)
+- [Day 16 - Twelve features of Bicep – Christmas edition with Esther Barthel and Freek Berson](https://youtu.be/NmVbq6xLAuc)
+- [Day 15 - Deploying a solution in Azure using Bicep to investigate Network Anomalies by Dave Rendon](https://youtu.be/mQ8MhKlLEFQ)
 
 ### Community Podcasts
 [Back To Top](#Table-Of-Contents)
@@ -136,6 +139,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
 - [Simplifying Azure IaC with Azure Bicep child resources](https://thecloudmarathoner.com/index.php/2022/03/01/simplifying-azure-iac-with-azure-bicep-child-resources/)
+- [Chicken and the Egg: How to Handle Bicep Interdependencies](https://blog.johnfolberth.com/chicken-and-the-egg-how-to-handle-bicep-interdependencies/)
 
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
