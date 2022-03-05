@@ -84,6 +84,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Forums and Feedback
 [Back To Top](#Table-Of-Contents)
+- [GitHub Azure/Bicep Discussions](https://github.com/Azure/bicep/discussions)
 
 ## Community
 
