@@ -32,31 +32,30 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 ### Official Learn
 [Back To Top](#Table-Of-Contents)
 
-- [Part 1: Fundamentals of Bicep](https://docs.microsoft.com/en-us/learn/paths/fundamentals-bicep/)
-- [Part 2: Intermediate Bicep](https://docs.microsoft.com/en-us/learn/paths/intermediate-bicep/)
-- [Part 3: Advanced Bicep](https://docs.microsoft.com/en-us/learn/paths/advanced-bicep/)
-- [Option 1: Deploy Azure resources by using Bicep and Azure Pipelines](https://docs.microsoft.com/en-us/learn/paths/bicep-azure-pipelines/)
-- [Option 2: Deploy Azure resources by using Bicep and GitHub Actions](https://docs.microsoft.com/en-us/learn/paths/bicep-github-actions/)
-
+- [Part 1: Fundamentals of Bicep](https://docs.microsoft.com/en-us/learn/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5004750)
+- [Part 2: Intermediate Bicep](https://docs.microsoft.com/en-us/learn/paths/intermediate-bicep/?WT.mc_id=AZ-MVP-5004750)
+- [Part 3: Advanced Bicep](https://docs.microsoft.com/en-us/learn/paths/advanced-bicep/?WT.mc_id=AZ-MVP-5004750)
+- [Option 1: Deploy Azure resources by using Bicep and Azure Pipelines](https://docs.microsoft.com/en-us/learn/paths/bicep-azure-pipelines/?WT.mc_id=AZ-MVP-5004750)
+- [Option 2: Deploy Azure resources by using Bicep and GitHub Actions](https://docs.microsoft.com/en-us/learn/paths/bicep-github-actions/?WT.mc_id=AZ-MVP-5004750)
 
 ### Official Docs
 [Back To Top](#Table-Of-Contents)
 
-- [Bicep documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
-- [What is Bicep?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview)
-- [Install Bicep tools](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/install)
-- [Bicep file structure and syntax](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/file)
+- [Bicep documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/?WT.mc_id=AZ-MVP-5004750)
+- [What is Bicep?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview/?WT.mc_id=AZ-MVP-5004750)
+- [Install Bicep tools](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/install/?WT.mc_id=AZ-MVP-5004750)
+- [Bicep file structure and syntax](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/file/?WT.mc_id=AZ-MVP-5004750)
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Quickstart: Intro to Bicep with Web App and DB](https://azure.github.io/AppService/2021/07/23/Quickstart-Intro-to-Bicep-with-Web-App-plus-DB.html)
-- [How to deploy resources with Bicep and Azure CLI](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cli)
-- [Deploy resources with Bicep and Azure PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell)
-- [Deploy Bicep files from Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cloud-shell?tabs=azure-cli)
-- [Migrate to Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate)
-- [Configure your Bicep environment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config)
-- [Best practices for Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices)
+- [How to deploy resources with Bicep and Azure CLI](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cli/?WT.mc_id=AZ-MVP-5004750)
+- [Deploy resources with Bicep and Azure PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell/?WT.mc_id=AZ-MVP-5004750)
+- [Deploy Bicep files from Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cloud-shell?tabs=azure-cli&WT.mc_id=AZ-MVP-5004750)
+- [Migrate to Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate/?WT.mc_id=AZ-MVP-5004750)
+- [Configure your Bicep environment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config/?WT.mc_id=AZ-MVP-5004750)
+- [Best practices for Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices/?WT.mc_id=AZ-MVP-5004750)
 - [How to use Azure Bicep for developing ARM templates - Jan 5, 2022](https://microsoft.github.io/AzureTipsAndTricks/blog/tip347.html)
-- [Publish Bicep modules to private module registry](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-private-module-registry?tabs=azure-cli)
-- [Create private registry for Bicep modules](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/private-module-registry?tabs=azure-powershell)
+- [Publish Bicep modules to private module registry](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-private-module-registry?tabs=azure-cli&WT.mc_id=AZ-MVP-5004750)
+- [Create private registry for Bicep modules](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/private-module-registry?tabs=azure-powershell&WT.mc_id=AZ-MVP-5004750)
 
 ### Official Videos
 [Back To Top](#Table-Of-Contents)
