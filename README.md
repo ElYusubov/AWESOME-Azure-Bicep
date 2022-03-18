@@ -106,6 +106,8 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Day 16 - Twelve features of Bicep – Christmas edition with Esther Barthel and Freek Berson](https://youtu.be/NmVbq6xLAuc)
 - [Day 15 - Deploying a solution in Azure using Bicep to investigate Network Anomalies by Dave Rendon](https://youtu.be/mQ8MhKlLEFQ)
 - [Azure Spring Clean 2022 - Bicep Registry](https://youtu.be/anDFspqUryk)
+- [Day 24 - Arm your Bicep with D(i)SC - how to make your life easier while building new environments - 2021](https://youtu.be/fg9N-LVPzu0)
+
 
 ### Community Podcasts
 [Back To Top](#Table-Of-Contents)
