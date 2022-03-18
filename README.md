@@ -105,6 +105,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Day 15 - Let's flex our Biceps to help Santa by Marco Obinu](https://youtu.be/JFBul3x_1xU)
 - [Day 16 - Twelve features of Bicep – Christmas edition with Esther Barthel and Freek Berson](https://youtu.be/NmVbq6xLAuc)
 - [Day 15 - Deploying a solution in Azure using Bicep to investigate Network Anomalies by Dave Rendon](https://youtu.be/mQ8MhKlLEFQ)
+- [Azure Spring Clean 2022 - Bicep Registry](https://youtu.be/anDFspqUryk)
 
 ### Community Podcasts
 [Back To Top](#Table-Of-Contents)
@@ -141,6 +142,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
 - [Simplifying Azure IaC with Azure Bicep child resources](https://thecloudmarathoner.com/index.php/2022/03/01/simplifying-azure-iac-with-azure-bicep-child-resources/)
 - [Chicken and the Egg: How to Handle Bicep Interdependencies](https://blog.johnfolberth.com/chicken-and-the-egg-how-to-handle-bicep-interdependencies/)
+- [Azure Budgets leveraging Bicep Registries](https://blog.johnfolberth.com/azure-budgets-leveraging-bicep-registries/)
 
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
