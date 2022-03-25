@@ -174,3 +174,4 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Community Forums
 [Back To Top](#Table-Of-Contents)
+- [Stackoverflow with Azure Bicep](https://stackoverflow.com/questions/tagged/azure-bicep)
