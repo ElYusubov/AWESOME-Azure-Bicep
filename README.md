@@ -9,21 +9,23 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ## Table Of Contents
 
-- [Official](#Official)
-   - [Learn](#Official-Learn)
-   - [Docs](#Official-Docs)
-   - [Videos](#Official-Videos)
-   - [Announcements and Articles](#Announcements-and-Articles)
-   - [Repositories](#Official-Repositories)
-   - [Forums and Feedback](#Forums-and-Feedback)
-- [Community](#Community)
-   - [Videos](#Community-Videos)
-   - [Podcasts](#Community-Podcasts)
-   - [Articles](#Community-Articles)
-   - [Tools](#Community-Tools)
-   - [Books](#Community-Books)
-   - [Repositories](#Community-Repositories)
-   - [Forums](#Community-Forums)
+- [AWESOME Azure Bicep 💪](#awesome-azure-bicep-)
+  - [Table Of Contents](#table-of-contents)
+  - [Official](#official)
+    - [Official Learn](#official-learn)
+    - [Official Docs](#official-docs)
+    - [Official Videos](#official-videos)
+    - [Announcements and Articles](#announcements-and-articles)
+    - [Official Repositories](#official-repositories)
+    - [Forums and Feedback](#forums-and-feedback)
+  - [Community](#community)
+    - [Community Videos](#community-videos)
+    - [Community Podcasts](#community-podcasts)
+    - [Community Books](#community-books)
+    - [Community Articles](#community-articles)
+    - [Community Tools](#community-tools)
+    - [Community Repositories](#community-repositories)
+    - [Community Forums](#community-forums)
 
 ## Official
 
@@ -110,6 +112,8 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Day 15 - Deploying a solution in Azure using Bicep to investigate Network Anomalies by Dave Rendon](https://youtu.be/mQ8MhKlLEFQ)
 - [Azure Spring Clean 2022 - Bicep Registry](https://youtu.be/anDFspqUryk)
 - [Day 24 - Arm your Bicep with D(i)SC - how to make your life easier while building new environments - 2021](https://youtu.be/fg9N-LVPzu0)
+- [ARM (and Bicep) Template Masterclass](https://youtube.com/playlist?list=PLeh9xH-kbPPY9aXCmZfvh1l3lYn3R4PLu)
+- [Bicep for Real](https://youtube.com/playlist?list=PLeh9xH-kbPPY-6hUKuLKhFu_w2tKFVpl3)
 
 
 ### Community Podcasts
@@ -148,12 +152,15 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Simplifying Azure IaC with Azure Bicep child resources](https://thecloudmarathoner.com/index.php/2022/03/01/simplifying-azure-iac-with-azure-bicep-child-resources/)
 - [Chicken and the Egg: How to Handle Bicep Interdependencies](https://blog.johnfolberth.com/chicken-and-the-egg-how-to-handle-bicep-interdependencies/)
 - [Azure Budgets leveraging Bicep Registries](https://blog.johnfolberth.com/azure-budgets-leveraging-bicep-registries/)
-
+- [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
+- [Creating Reusable Infrastructure as Code Part 2: Creating Modules with Azure Bicep](https://samcogan.com/creating-modules-with-azure-bicep/)
+- 
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
 
 - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
 - [AzAdvertizer](https://www.azadvertizer.net/)
+- [ARM (and Bicep) Templte Toolkit Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=Sam-Cogan.ARMTTKExtension)
 
 ### Community Repositories
 [Back To Top](#Table-Of-Contents)
