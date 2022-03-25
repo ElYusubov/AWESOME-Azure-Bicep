@@ -69,6 +69,9 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Announcements and Articles
 [Back To Top](#Table-Of-Contents)
+- [Comparing JSON and Bicep for templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/compare-template-syntax?WT.mc_id=AZ-MVP-5004750)
+- [Decompiling ARM template JSON to Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/decompile?tabs=azure-cli&WT.mc_id=AZ-MVP-5004750)
+- [Azure Pipelines for Bicep Tasks](https://marketplace.visualstudio.com/items?itemName=piraces.bicep-tasks)
 
 
 ### Official Repositories
