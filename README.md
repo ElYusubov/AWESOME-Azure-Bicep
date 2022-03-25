@@ -154,13 +154,13 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Budgets leveraging Bicep Registries](https://blog.johnfolberth.com/azure-budgets-leveraging-bicep-registries/)
 - [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
 - [Creating Reusable Infrastructure as Code Part 2: Creating Modules with Azure Bicep](https://samcogan.com/creating-modules-with-azure-bicep/)
-- 
+  
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
 
 - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
 - [AzAdvertizer](https://www.azadvertizer.net/)
-- [ARM (and Bicep) Templte Toolkit Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=Sam-Cogan.ARMTTKExtension)
+- [ARM (and Bicep) Template Toolkit Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=Sam-Cogan.ARMTTKExtension)
 
 ### Community Repositories
 [Back To Top](#Table-Of-Contents)
