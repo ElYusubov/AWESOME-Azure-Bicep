@@ -12,20 +12,20 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [AWESOME Azure Bicep 💪](#awesome-azure-bicep-)
   - [Table Of Contents](#table-of-contents)
   - [Official](#official)
-    - [Official Learn](#official-learn)
-    - [Official Docs](#official-docs)
-    - [Official Videos](#official-videos)
+    - [Microsoft Learn](#official-learn)
+    - [Docs](#official-docs)
+    - [Videos](#official-videos)
     - [Announcements and Articles](#announcements-and-articles)
-    - [Official Repositories](#official-repositories)
+    - [Repositories](#official-repositories)
     - [Forums and Feedback](#forums-and-feedback)
   - [Community](#community)
-    - [Community Videos](#community-videos)
-    - [Community Podcasts](#community-podcasts)
-    - [Community Books](#community-books)
-    - [Community Articles](#community-articles)
-    - [Community Tools](#community-tools)
-    - [Community Repositories](#community-repositories)
-    - [Community Forums](#community-forums)
+    - [Videos](#community-videos)
+    - [Podcasts](#community-podcasts)
+    - [Books](#community-books)
+    - [Articles](#community-articles)
+    - [Tools](#community-tools)
+    - [Repositories](#community-repositories)
+    - [Forums](#community-forums)
 
 ## Official
 
@@ -116,6 +116,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep for Real](https://youtube.com/playlist?list=PLeh9xH-kbPPY-6hUKuLKhFu_w2tKFVpl3)
 
 
+
 ### Community Podcasts
 [Back To Top](#Table-Of-Contents)
 
@@ -181,3 +182,4 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Community Forums
 [Back To Top](#Table-Of-Contents)
+- [Stackoverflow with Azure Bicep](https://stackoverflow.com/questions/tagged/azure-bicep)
