@@ -12,7 +12,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [AWESOME Azure Bicep 💪](#awesome-azure-bicep-)
   - [Table Of Contents](#table-of-contents)
   - [Official](#official)
-    - [Microsoft Learn](#official-learn)
+    - [Microsoft Learn](#microsoft-learn)
     - [Docs](#official-docs)
     - [Videos](#official-videos)
     - [Announcements and Articles](#announcements-and-articles)
@@ -31,7 +31,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 > Links below are from official Microsoft sources, websites, and channels.
 
-### Official Learn
+### Microsoft Learn
 [Back To Top](#Table-Of-Contents)
 
 - [Part 1: Fundamentals of Bicep](https://docs.microsoft.com/en-us/learn/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5004750)
