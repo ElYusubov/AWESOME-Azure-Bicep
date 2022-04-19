@@ -58,6 +58,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [How to use Azure Bicep for developing ARM templates - Jan 5, 2022](https://microsoft.github.io/AzureTipsAndTricks/blog/tip347.html)
 - [Publish Bicep modules to private module registry](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-private-module-registry?tabs=azure-cli&WT.mc_id=AZ-MVP-5004750)
 - [Create private registry for Bicep modules](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/private-module-registry?tabs=azure-powershell&WT.mc_id=AZ-MVP-5004750)
+- [Official Azure Bicep Releases](https://github.com/Azure/bicep/releases/)
 
 ### Official Videos
 [Back To Top](#Table-Of-Contents)
