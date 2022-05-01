@@ -68,7 +68,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Level up your skills with Bicep!](https://devblogs.microsoft.com/devops/level-up-your-skills-with-bicep/)
 - [Bicep Community Call - January '22](https://youtu.be/nDlH6TiOedI)
 - [Bicep Community Calls & Azure Deployment & Governance Channel](https://www.youtube.com/channel/UCZZ3-oMrVI5ssheMzaWC4uQ/videos)
-
+- [Bicep Community Call - March '22](https://youtu.be/mW74PTpAXXs)
 
 ### Announcements and Articles
 [Back To Top](#Table-Of-Contents)
