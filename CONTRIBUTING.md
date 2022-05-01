@@ -6,6 +6,7 @@
 4. Add your link(s) to an existing list or suggest a new category/list.
 5. Commit your changes to the README.md file.
 6. Create a new [Pull Request](https://github.com/ElYusubov/AWESOME-Azure-Bicep/compare) with your changes.
+7. Create an issue if you see some inconsistency 
 
 ## Contribution Standards
 
