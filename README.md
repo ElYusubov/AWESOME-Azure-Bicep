@@ -86,6 +86,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
 - [Bicep samples for documentation](https://github.com/Azure/azure-docs-bicep-samples)
 - [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep)
+- [Bicep Registry Modules](https://github.com/Azure/bicep-registry-modules)
 
 
 ### Forums and Feedback
