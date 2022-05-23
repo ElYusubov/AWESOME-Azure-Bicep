@@ -164,6 +164,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
 - [AzAdvertizer](https://www.azadvertizer.net/)
 - [ARM (and Bicep) Template Toolkit Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=Sam-Cogan.ARMTTKExtension)
+- [NubesGen - Automatically generate bicep for your project](https://www.nubesgen.com)
 
 ### Community Repositories
 [Back To Top](#Table-Of-Contents)
