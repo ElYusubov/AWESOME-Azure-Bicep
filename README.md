@@ -133,6 +133,8 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 - [Getting started with Bicep: Infrastructure as code](https://www.amazon.com/Getting-started-Bicep-Infrastructure-Azure-ebook/dp/B0984MQY2N)
 - [Azure Infrastructure as Code - With ARM templates and Bicep](https://www.manning.com/books/azure-infrastructure-as-code)
+- [nfrastructure as Code with Azure Bicep](https://www.amazon.com/Infrastructure-Code-Azure-Bicep-complexities-ebook/dp/B09MFY582M/ref=pd_sim_sccl_1_1/138-4991526-2637316?pd_rd_w=Ehtas&pf_rd_p=262acb63-b997-4c81-83bd-9526eab7f618&pf_rd_r=51E2ZEVXM761ECZB2KYP&pd_rd_r=6566e50e-20b8-48dc-a42f-e45c27058abd&pd_rd_wg=JzrfD&pd_rd_i=B09MFY582M&psc=1)
+
 
 ### Community Articles
 [Back To Top](#Table-Of-Contents)
