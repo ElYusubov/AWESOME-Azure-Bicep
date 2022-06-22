@@ -157,6 +157,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Budgets leveraging Bicep Registries](https://blog.johnfolberth.com/azure-budgets-leveraging-bicep-registries/)
 - [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
 - [Creating Reusable Infrastructure as Code Part 2: Creating Modules with Azure Bicep](https://samcogan.com/creating-modules-with-azure-bicep/)
+- [Checkov now supports scan Bicep- Bicep + Checkov + Azure DevOps](https://enlear.academy/checkov-now-supports-scan-bicep-bicep-checkov-azure-devops-8e9573e6502d)
   
 ### Community Tools
 [Back To Top](#Table-Of-Contents)
