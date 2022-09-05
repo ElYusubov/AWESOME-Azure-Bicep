@@ -17,7 +17,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
     - [Videos](#official-videos)
     - [Announcements and Articles](#announcements-and-articles)
     - [Repositories](#official-repositories)
-    - [Forums and Feedback](#forums-and-feedback)
   - [Community](#community)
     - [Videos](#community-videos)
     - [Podcasts](#community-podcasts)
@@ -25,7 +24,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
     - [Articles](#community-articles)
     - [Tools](#community-tools)
     - [Repositories](#community-repositories)
-    - [Forums](#community-forums)
+    - [Forums and Feedback](#community-forums)
 
 ## Official
 
@@ -90,12 +89,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep samples for documentation](https://github.com/Azure/azure-docs-bicep-samples)
 - [Bicep type definitions for ARM resources](https://github.com/Azure/bicep-types-az)
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
-
-### Forums and Feedback
-
-[Back To Top](#Table-Of-Contents)
-
-- [GitHub Azure/Bicep Discussions](https://github.com/Azure/bicep/discussions)
 
 ## Community
 
@@ -203,3 +196,4 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#Table-Of-Contents)
 
 - [Stackoverflow with Azure Bicep](https://stackoverflow.com/questions/tagged/azure-bicep)
+- [Azure Bicep Discussions / Forum](https://github.com/Azure/bicep/discussions)
