@@ -143,15 +143,16 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Bicep Playground: Transitioning from ARM templates into Bicep](https://medium.com/codex/azure-bicep-playground-transitioning-from-arm-templates-into-bicep-5c10c864c863)
 - [Azure Bicep posts on Cloud Marathoner's Journey](https://thecloudmarathoner.com/index.php/category/azure-bicep/)
 - [Azure Bicep: Getting started guide](https://4sysops.com/archives/azure-bicep-getting-started-guide/)
+- [Azure Bicep lambda expressions](https://johnlokerse.dev/2022/09/26/azure-bicep-lambda-expressions/)
 - [Azure Budgets leveraging Bicep Registries](https://blog.johnfolberth.com/azure-budgets-leveraging-bicep-registries/)
 - [Checkov now supports scan Bicep- Bicep + Checkov + Azure DevOps](https://enlear.academy/checkov-now-supports-scan-bicep-bicep-checkov-azure-devops-8e9573e6502d)
 - [Chicken and the Egg: How to Handle Bicep Interdependencies](https://blog.johnfolberth.com/chicken-and-the-egg-how-to-handle-bicep-interdependencies/)
-- [Convert ARM templates to Azure Bicep](https://johnlokerse.wordpress.com/2022/02/20/convert-arm-templates-to-azure-bicep/)
+- [Convert ARM templates to Azure Bicep](https://johnlokerse.dev/2022/02/20/convert-arm-templates-to-azure-bicep/)
 - [Creating Reusable Infrastructure as Code Part 2: Creating Modules with Azure Bicep](https://samcogan.com/creating-modules-with-azure-bicep/)
 - [Deploy Azure Infrastructure with Azure Bicep](https://www.kallemarjokorpi.fi/blog/deploy-azure-infrastructure-with-azure-bicep.html)
 - [Deploy Ubuntu VM with Prometheus and Grafana using Bicep Language](https://blog.azinsider.net/deploy-ubuntu-vm-with-prometheus-and-grafana-using-bicep-language-ca8164650482)
 - [Deploying Azure Bicep using GitHub Actions](https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/)
-- [Generate Bicep parameters with Azure CLI or Visual Studio Code](https://johnlokerse.wordpress.com/2022/07/26/generate-bicep-parameters-with-azure-cli-or-visual-studio-code/)
+- [Generate Bicep parameters with Azure CLI or Visual Studio Code](https://johnlokerse.dev/2022/07/26/generate-bicep-parameters-with-azure-cli-or-visual-studio-code/)
 - [Get a consistent Azure naming convention with Bicep modules](https://4bes.nl/2021/10/10/get-a-consistent-azure-naming-convention-with-bicep-modules/)
 - [Getting started with Project Bicep for Azure ARM](https://msftplayground.com/2020/10/getting-started-with-project-bicep-for-azure-arm/)
 - [Hardening parameter inputs on Azure Bicep files](https://thecloudmarathoner.com/index.php/2021/10/22/hardening-parameter-inputs-on-azure-bicep-files/)
@@ -161,6 +162,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
 - [Whitelisting your Public IP with Azure Bicep and PowerShell](https://luke.geek.nz/azure/whitelisting-your-public-ip-with-azure-bicep/)
 - [Why is Azure Bicep your next choice for Infrastructure As Code?](https://medium.com/codex/why-is-azure-bicep-your-next-choice-for-infrastructure-as-code-f10a2b924ca7)
+- 
   
 ### Community Tools
 
