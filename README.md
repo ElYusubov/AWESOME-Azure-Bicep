@@ -179,6 +179,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#Table-Of-Contents)
 
+- [AzInsider Dave Rendon](https://github.com/daveRendon)
 - [Ba4bes/Bicep-NamingConvention](https://github.com/Ba4bes/Bicep-NamingConvention)
 - [ElYusubov/Learn-Bicep](https://github.com/ElYusubov/Learn-Bicep)
 - [fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure](https://github.com/fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure)
