@@ -44,6 +44,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#Table-Of-Contents)
 
+- [Add linter settings in the Bicep config file](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config-linter?WT.mc_id=AZ-MVP-5004750)
 - [Best practices for Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices/?WT.mc_id=AZ-MVP-5004750)
 - [Bicep documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/?WT.mc_id=AZ-MVP-5004750)
 - [Bicep file structure and syntax](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/file/?WT.mc_id=AZ-MVP-5004750)
