@@ -160,12 +160,12 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Getting started with Project Bicep for Azure ARM](https://msftplayground.com/2020/10/getting-started-with-project-bicep-for-azure-arm/)
 - [Hardening parameter inputs on Azure Bicep files](https://thecloudmarathoner.com/index.php/2021/10/22/hardening-parameter-inputs-on-azure-bicep-files/)
 - [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
+- [Run PowerShell scripts with Azure Bicep](https://johnlokerse.dev/2022/12/04/run-powershell-scripts-with-azure-bicep/)
 - [Simplifying Azure IaC with Azure Bicep child resources](https://thecloudmarathoner.com/index.php/2022/03/01/simplifying-azure-iac-with-azure-bicep-child-resources/)
 - [What are the good options to manage sensitive info in Azure Bicep?](https://thecloudmarathoner.com/index.php/2021/11/16/managing-azure-bicep-sensitive-info-with-key-vault/)
 - [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
 - [Whitelisting your Public IP with Azure Bicep and PowerShell](https://luke.geek.nz/azure/whitelisting-your-public-ip-with-azure-bicep/)
 - [Why is Azure Bicep your next choice for Infrastructure As Code?](https://medium.com/codex/why-is-azure-bicep-your-next-choice-for-infrastructure-as-code-f10a2b924ca7)
-- 
   
 ### Community Tools
 
