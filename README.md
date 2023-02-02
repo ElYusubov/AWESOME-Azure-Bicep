@@ -143,7 +143,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 - [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
-- [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
 - [Azure Bicep Playground: Transitioning from ARM templates into Bicep](https://medium.com/codex/azure-bicep-playground-transitioning-from-arm-templates-into-bicep-5c10c864c863)
 - [Azure Bicep posts on Cloud Marathoner's Journey](https://thecloudmarathoner.com/index.php/category/azure-bicep/)
 - [Azure Bicep: Deploy a virtual machine with Office pre-installed](https://blog.azinsider.net/azure-bicep-deploy-a-virtual-machine-with-office-pre-installed-c7f329e3e2dc)
