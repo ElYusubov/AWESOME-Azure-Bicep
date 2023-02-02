@@ -86,13 +86,13 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction)
 - [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep)
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
-- [Template Best Practice Analyzer (BPA)](https://github.com/Azure/template-analyzer)
 - [Bicep Registry Modules](https://github.com/Azure/bicep-registry-modules)
 - [Bicep samples for documentation](https://github.com/Azure/azure-docs-bicep-samples)
 - [Bicep Testing Framework (BenchPress)](https://github.com/Azure/benchpress)
 - [Bicep type definitions for ARM resources](https://github.com/Azure/bicep-types-az)
-- [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Common Azure Resource Modules Library](https://github.com/Azure/ResourceModules)
+- [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
+- [Template Best Practice Analyzer (BPA)](https://github.com/Azure/template-analyzer)
 
 ## Community
 
@@ -142,7 +142,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#Table-Of-Contents)
 
 - [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
-- [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
 - [Azure Bicep Playground: Transitioning from ARM templates into Bicep](https://medium.com/codex/azure-bicep-playground-transitioning-from-arm-templates-into-bicep-5c10c864c863)
 - [Azure Bicep posts on Cloud Marathoner's Journey](https://thecloudmarathoner.com/index.php/category/azure-bicep/)
