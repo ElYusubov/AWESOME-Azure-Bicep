@@ -85,12 +85,15 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 - [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction)
 - [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep)
+- [Azure NoOps Accelerator - Bicep Quickstart Deployment ](https://github.com/Azure/NoOpsAccelerator)
+- [Azure Spring Apps Reference Architecture - Bicep template](https://github.com/Azure/azure-spring-apps-reference-architecture/tree/main/Bicep)
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
 - [Bicep Registry Modules](https://github.com/Azure/bicep-registry-modules)
 - [Bicep samples for documentation](https://github.com/Azure/azure-docs-bicep-samples)
 - [Bicep Testing Framework (BenchPress)](https://github.com/Azure/benchpress)
 - [Bicep type definitions for ARM resources](https://github.com/Azure/bicep-types-az)
 - [Common Azure Resource Modules Library (CARML)](https://github.com/Azure/ResourceModules)
+- [Guardrails Solution Accelerator for Canadian Public Sector - Bicep setup](https://github.com/Azure/GuardrailsSolutionAccelerator/tree/main/setup/IaC)
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Template Best Practice Analyzer (BPA)](https://github.com/Azure/template-analyzer)
 
