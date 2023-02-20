@@ -122,6 +122,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Test with Bicep Linter - LinkedIn](https://www.linkedin.com/learning/azure-infrastructure-as-code-with-github/build-a-bicep-file)
 - [Transforming ARM into Azure Bicep](https://youtu.be/T2-bm_gmLCI)
 - [Understanding and Using Project BICEP - The NEW Azure Deployment Technology](https://youtu.be/_yvb6NVx61Y)
+- [Build your first Azure Bicep Template](https://youtu.be/yTMYp2cR_Bg)
 
 ### Community Podcasts
 
@@ -171,6 +172,10 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
 - [Whitelisting your Public IP with Azure Bicep and PowerShell](https://luke.geek.nz/azure/whitelisting-your-public-ip-with-azure-bicep/)
 - [Why is Azure Bicep your next choice for Infrastructure As Code?](https://medium.com/codex/why-is-azure-bicep-your-next-choice-for-infrastructure-as-code-f10a2b924ca7)
+- [Create your first Azure Bicep template](https://www.techielass.com/create-your-first-azure-bicep-template/)
+- [Deploy Azure Bicep using GitHub Actions](https://www.techielass.com/deploy-azure-bicep-using-github-actions/)
+- [Getting started with Azure Bicep](https://www.techielass.com/getting-started-with-azure-bicep/)
+- [5 Cool Things about Azure Bicep templates](https://www.techielass.com/5-cool-things-about-azure-bicep-templates/)
   
 ### Community Tools
 
