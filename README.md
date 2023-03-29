@@ -86,7 +86,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction)
 - [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep)
 - [Azure NoOps Accelerator - Bicep Quickstart Deployment ](https://github.com/Azure/NoOpsAccelerator)
-- [Azure Spring Apps Reference Architecture - Bicep template](https://github.com/Azure/azure-spring-apps-reference-architecture/tree/main/Bicep)
+- [Azure Spring Apps Reference Architecture - Bicep template](https://github.com/Azure/azure-spring-apps-landing-zone-accelerator/tree/main/Scenarios/ASA-Secure-Baseline/Bicep)
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
 - [Bicep Registry Modules](https://github.com/Azure/bicep-registry-modules)
 - [Bicep samples for documentation](https://github.com/Azure/azure-docs-bicep-samples)
@@ -187,7 +187,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [ARM (and Bicep) Template Toolkit Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=Sam-Cogan.ARMTTKExtension)
 - [AzAdvertizer](https://www.azadvertizer.net/)
 - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
-- [NubesGen - Automatically generate bicep for your project](https://www.nubesgen.com)
+- [NubesGen - Automatically generate bicep for your project](https://nubesgen.com)
 
 ### Community Repositories
 
