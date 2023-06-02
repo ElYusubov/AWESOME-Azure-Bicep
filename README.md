@@ -118,6 +118,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Day 24 - Arm your Bicep with D(i)SC - how to make your life easier while building new environments - 2021](https://youtu.be/fg9N-LVPzu0)
 - [Embrace Infrastructure as Code Right Now With Azure Bicep - Nashville Azure Users Group - Feb 18, 2022](https://youtu.be/lpCHYNP50Bw)
 - [Getting Started with Azure Bicep](https://www.youtube.com/watch?v=77AfsFzTsI4)
+- [EP7: Getting Started with Azure Bicep - Tutorial](https://www.youtube.com/watch?v=Vux7kvB-i-E)
 - [Mert to the Future #10 - Using Bicep to Create Your Azure Data Solution with Heini Ilmarinen](https://youtu.be/x7scP0xFoqo)
 - [Project Bicep Azure Infrastructure as Code (ARM Template Alternative) - Feb 22, 2021](https://youtu.be/F1zzrnXQwKU)
 - [Test with Bicep Linter - LinkedIn](https://www.linkedin.com/learning/azure-infrastructure-as-code-with-github/build-a-bicep-file)
@@ -129,7 +130,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#Table-Of-Contents)
 
 - [079 - We're talking about Azure Bicep](https://podtail.com/en/podcast/ctrl-alt-azure/079-we-re-talking-about-azure-bicep/)
-- [EP7: Getting Started with Azure Bicep](https://open.spotify.com/episode/6DgZwTnALUc9gCI5RUDfDC)
 - [Episode 21: Bicep with Alex Frankel](https://unhandledexceptionpodcast.com/posts/0021-bicep/)
 - [How to deploy an SAP system using Azure Bicep](https://podcasts.apple.com/gb/podcast/71-the-one-with-bicep-and-looking-at-cee-jan-tretina/id1531372929?i=1000544576527)
 
