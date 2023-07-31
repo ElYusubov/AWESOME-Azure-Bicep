@@ -32,7 +32,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Microsoft Learn
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Option 1: Deploy Azure resources by using Bicep and Azure Pipelines](https://docs.microsoft.com/en-us/learn/paths/bicep-azure-pipelines/?WT.mc_id=AZ-MVP-5004750)
 - [Option 2: Deploy Azure resources by using Bicep and GitHub Actions](https://docs.microsoft.com/en-us/learn/paths/bicep-github-actions/?WT.mc_id=AZ-MVP-5004750)
@@ -42,7 +42,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Official Docs
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Add linter settings in the Bicep config file](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config-linter?WT.mc_id=AZ-MVP-5004750)
 - [Best practices for Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices/?WT.mc_id=AZ-MVP-5004750)
@@ -64,7 +64,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Official Videos
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Bicep Community Calls & Azure Deployment & Governance Channel](https://www.youtube.com/channel/UCZZ3-oMrVI5ssheMzaWC4uQ/videos)
 - [How to use Azure Bicep for developing ARM templates | Azure Tips and Tricks](https://youtu.be/atWVFV7Y4vY)
@@ -73,7 +73,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Announcements and Articles
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Pipelines for Bicep Tasks](https://marketplace.visualstudio.com/items?itemName=piraces.bicep-tasks)
 - [Comparing JSON and Bicep for templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/compare-template-syntax?WT.mc_id=AZ-MVP-5004750)
@@ -81,7 +81,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Official Repositories
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction)
 - [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep)
@@ -103,7 +103,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Community Videos
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [ARM (and Bicep) Template Masterclass](https://youtube.com/playlist?list=PLeh9xH-kbPPY9aXCmZfvh1l3lYn3R4PLu)
 - [Azure Bicep First Look - LinkedIn](https://www.linkedin.com/learning/azure-bicep-first-look/learning-azure-bicep)
@@ -127,7 +127,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Community Podcasts
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [079 - We're talking about Azure Bicep](https://podtail.com/en/podcast/ctrl-alt-azure/079-we-re-talking-about-azure-bicep/)
 - [Episode 21: Bicep with Alex Frankel](https://unhandledexceptionpodcast.com/posts/0021-bicep/)
@@ -135,7 +135,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Community Books
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Azure Infrastructure as Code - With ARM templates and Bicep](https://www.manning.com/books/azure-infrastructure-as-code)
 - [Getting started with Bicep: Infrastructure as code](https://www.amazon.com/Getting-started-Bicep-Infrastructure-Azure-ebook/dp/B0984MQY2N)
@@ -143,7 +143,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Community Articles
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [5 Cool Things about Azure Bicep templates](https://www.techielass.com/5-cool-things-about-azure-bicep-templates/)
 - [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
@@ -182,7 +182,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Community Tools
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [ARM (and Bicep) Template Toolkit Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=Sam-Cogan.ARMTTKExtension)
 - [AzAdvertizer](https://www.azadvertizer.net/)
@@ -191,7 +191,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Community Repositories
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [AzInsider Dave Rendon](https://github.com/daveRendon)
 - [Ba4bes/Bicep-NamingConvention](https://github.com/Ba4bes/Bicep-NamingConvention)
@@ -213,7 +213,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ### Community Forums
 
-[Back To Top](#Table-Of-Contents)
+[Back To Top](#table-of-contents)
 
 - [Stackoverflow with Azure Bicep](https://stackoverflow.com/questions/tagged/azure-bicep)
 - [Azure Bicep Discussions / Forum](https://github.com/Azure/bicep/discussions)
