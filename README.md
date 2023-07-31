@@ -202,6 +202,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code)
 - [jamesatighe/AVD-BICEP](https://github.com/jamesatighe/AVD-BICEP)
 - [jaydestro/aksbicep](https://github.com/jaydestro/aksbicep)
+- [johnlokerse/bicep-snippets](https://github.com/johnlokerse/bicep-snippets)
 - [kevinevans1/learn-azure-bicep](https://github.com/kevinevans1/learn-azure-bicep)
 - [lordlinus/databricks-all-in-one-bicep-template](https://github.com/lordlinus/databricks-all-in-one-bicep-template)
 - [Packt Publishing - IaC with Azure Bicep](https://github.com/PacktPublishing/Infrastructure-as-Code-with-Azure-Bicep)
