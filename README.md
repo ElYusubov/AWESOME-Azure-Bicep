@@ -130,6 +130,9 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#table-of-contents)
 
 - [079 - We're talking about Azure Bicep](https://podtail.com/en/podcast/ctrl-alt-azure/079-we-re-talking-about-azure-bicep/)
+- [Azure Greg chats to Elkhan Yusubov about Bicep, Cloud Marathoner and Cloud Journey](https://www.youtube.com/live/798YR9dRNmU)
+- [Azure Greg chats to Freek Berson about Bicep and covers 3 exciting new features ](https://www.youtube.com/live/E-j022nCRFM)
+- [EP7: Getting Started with Azure Bicep](https://open.spotify.com/episode/6DgZwTnALUc9gCI5RUDfDC)
 - [Episode 21: Bicep with Alex Frankel](https://unhandledexceptionpodcast.com/posts/0021-bicep/)
 - [How to deploy an SAP system using Azure Bicep](https://podcasts.apple.com/gb/podcast/71-the-one-with-bicep-and-looking-at-cee-jan-tretina/id1531372929?i=1000544576527)
 
@@ -164,6 +167,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Deploy Azure Lab Services using Azure Bicep](https://blog.azinsider.net/deploy-azure-lab-services-using-azure-bicep-9fc0fa877446)
 - [Deploy Ubuntu VM with Prometheus and Grafana using Bicep Language](https://blog.azinsider.net/deploy-ubuntu-vm-with-prometheus-and-grafana-using-bicep-language-ca8164650482)
 - [Deploying Azure Bicep using GitHub Actions](https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/)
+- [Deployment Stacks for Bicep are awesome: a full walkthrough & sneak peek and of what's coming soon](https://www.linkedin.com/pulse/deployment-stacks-bicep-awesome-full-walkthrough-sneak-freek-berson/)
 - [Generate Bicep parameters with Azure CLI or Visual Studio Code](https://johnlokerse.dev/2022/07/26/generate-bicep-parameters-with-azure-cli-or-visual-studio-code/)
 - [Get a consistent Azure naming convention with Bicep modules](https://4bes.nl/2021/10/10/get-a-consistent-azure-naming-convention-with-bicep-modules/)
 - [Getting started with Azure Bicep - techielass](https://www.techielass.com/getting-started-with-azure-bicep/)
