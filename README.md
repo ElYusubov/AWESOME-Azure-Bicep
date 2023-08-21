@@ -177,6 +177,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
 - [Run PowerShell scripts with Azure Bicep](https://johnlokerse.dev/2022/12/04/run-powershell-scripts-with-azure-bicep/)
 - [Simplifying Azure IaC with Azure Bicep child resources](https://thecloudmarathoner.com/index.php/2022/03/01/simplifying-azure-iac-with-azure-bicep-child-resources/)
+- [Subnetting in Azure Bicep](https://johnlokerse.dev/2023/08/21/subnetting-in-azure-bicep/)
 - [Three use cases for using GitHub Copilot with Azure Bicep](https://johnlokerse.dev/2023/02/27/three-use-cases-for-using-github-copilot-with-azure-bicep/)
 - [Troubleshooting steps with the Azure Bicep Insert and system path errors](https://thecloudmarathoner.com/index.php/2023/03/08/my-troubleshooting-steps-with-the-azure-bicep-insert-and-system-path-errors/)
 - [What are the good options to manage sensitive info in Azure Bicep?](https://thecloudmarathoner.com/index.php/2021/11/16/managing-azure-bicep-sensitive-info-with-key-vault/)
