@@ -116,6 +116,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Day 15 - Let's flex our Biceps to help Santa by Marco Obinu](https://youtu.be/JFBul3x_1xU)
 - [Day 16 - Twelve features of Bicep – Christmas edition with Esther Barthel and Freek Berson](https://youtu.be/NmVbq6xLAuc)
 - [Day 24 - Arm your Bicep with D(i)SC - how to make your life easier while building new environments - 2021](https://youtu.be/fg9N-LVPzu0)
+- [Deployment Stacks Deep Dive - John Savill](https://youtu.be/d1AE8qLwBYw?feature=shared)
 - [Embrace Infrastructure as Code Right Now With Azure Bicep - Nashville Azure Users Group - Feb 18, 2022](https://youtu.be/lpCHYNP50Bw)
 - [Getting Started with Azure Bicep](https://www.youtube.com/watch?v=77AfsFzTsI4)
 - [EP7: Getting Started with Azure Bicep - Tutorial](https://www.youtube.com/watch?v=Vux7kvB-i-E)
