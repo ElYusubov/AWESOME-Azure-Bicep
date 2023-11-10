@@ -133,7 +133,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [079 - We're talking about Azure Bicep](https://podtail.com/en/podcast/ctrl-alt-azure/079-we-re-talking-about-azure-bicep/)
 - [Azure Greg chats to Elkhan Yusubov about Bicep, Cloud Marathoner and Cloud Journey](https://www.youtube.com/live/798YR9dRNmU)
 - [Azure Greg chats to Freek Berson about Bicep and covers 3 exciting new features ](https://www.youtube.com/live/E-j022nCRFM)
-- [EP7: Getting Started with Azure Bicep](https://open.spotify.com/episode/6DgZwTnALUc9gCI5RUDfDC)
 - [Episode 21: Bicep with Alex Frankel](https://unhandledexceptionpodcast.com/posts/0021-bicep/)
 - [How to deploy an SAP system using Azure Bicep](https://podcasts.apple.com/gb/podcast/71-the-one-with-bicep-and-looking-at-cee-jan-tretina/id1531372929?i=1000544576527)
 
