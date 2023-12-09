@@ -60,6 +60,8 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Publish Bicep modules to private module registry](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-private-module-registry?tabs=azure-cli&WT.mc_id=AZ-MVP-5004750)
 - [Quickstart: Intro to Bicep with Web App and DB](https://azure.github.io/AppService/2021/07/23/Quickstart-Intro-to-Bicep-with-Web-App-plus-DB.html)
+- [Set scope for extension resources in Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/scope-extension-resources?WT.mc_id=AZ-MVP-5004750)
+- [Understand the structure and syntax of Bicep files](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/file?WT.mc_id=AZ-MVP-5004750)
 - [What is Bicep?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview/?WT.mc_id=AZ-MVP-5004750)
 
 ### Official Videos
