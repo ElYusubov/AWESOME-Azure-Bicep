@@ -181,7 +181,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [How to deploy Azure Policy with Bicep](https://andrewmatveychuk.com/how-to-deploy-azure-policy-with-bicep/)
 - [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
 - [Run PowerShell scripts with Azure Bicep](https://johnlokerse.dev/2022/12/04/run-powershell-scripts-with-azure-bicep/)
-- [Seamlessly deploy Azure Front Door Premium with Private Endpoint to App Services](https://rios.engineer/seamlessly-deploy-azure-front-door-premium-with-private-endpoint-to-app-services/)
+- [Seamlessly deploy Azure Front Door Premium with Private Endpoint to App Services with Azure Bicep](https://rios.engineer/seamlessly-deploy-azure-front-door-premium-with-private-endpoint-to-app-services/)
 - [Simplifying Azure IaC with Azure Bicep child resources](https://thecloudmarathoner.com/index.php/2022/03/01/simplifying-azure-iac-with-azure-bicep-child-resources/)
 - [Subnetting in Azure Bicep](https://johnlokerse.dev/2023/08/21/subnetting-in-azure-bicep/)
 - [Three use cases for using GitHub Copilot with Azure Bicep](https://johnlokerse.dev/2023/02/27/three-use-cases-for-using-github-copilot-with-azure-bicep/)
