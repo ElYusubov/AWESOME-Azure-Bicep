@@ -1,12 +1,7 @@
 {
-    "httpHeaders": [
+    "ignorePatterns": [
         {
-            "urls": [
-                "https://www.reddit.com/r/AzureBicep"
-            ],
-            "headers": {
-                "Accept-Encoding": "zstd, br, gzip, deflate"
-            }
+          "pattern": "^http://reddit.com"
         }
-    ]
+      ]
 }
