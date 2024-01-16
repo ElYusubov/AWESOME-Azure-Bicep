@@ -1,3 +1,12 @@
 {
-    "aliveStatusCodes": [403, 200]
+    "httpHeaders": [
+        {
+            "urls": [
+                "https://www.reddit.com/r/AzureBicep"
+            ],
+            "headers": {
+                "Accept-Encoding": "zstd, br, gzip, deflate"
+            }
+        }
+    ]
 }
