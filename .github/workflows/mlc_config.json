@@ -1,7 +1,7 @@
 {
     "ignorePatterns": [
         {
-          "pattern": "^http://reddit.com"
+          "pattern": "^https://www.reddit.com"
         }
       ]
 }
