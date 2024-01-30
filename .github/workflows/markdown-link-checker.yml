@@ -1,6 +1,6 @@
 name: Markdown Link Checker
 
-on: 
+on:
   push:
     branches:
     - main
@@ -21,6 +21,7 @@ jobs:
       with:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
+        config-file: '.github/workflows/mlc_config.json'
     - name: Sleep for 3hrs
       if: ${{ steps.markdownlinkcheck.outcome == 'failure' && steps.markdownlinkcheck.conclusion == 'success' }}
       uses: juliangruber/sleep-action@v1
@@ -32,3 +33,4 @@ jobs:
       with:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
+        config-file: '.github/workflows/mlc_config.json'
