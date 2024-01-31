@@ -179,6 +179,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Getting started with Project Bicep for Azure ARM](https://msftplayground.com/2020/10/getting-started-with-project-bicep-for-azure-arm/)
 - [Hardening parameter inputs on Azure Bicep files](https://thecloudmarathoner.com/index.php/2021/10/22/hardening-parameter-inputs-on-azure-bicep-files/)
 - [How to deploy Azure Policy with Bicep](https://andrewmatveychuk.com/how-to-deploy-azure-policy-with-bicep/)
+- [Introducing the “Helm Install Command” Bicep Module: Streamlining AKS bootstrapping](https://pixelrobots.co.uk/2024/01/introducing-the-helm-install-command-bicep-module-streamlining-aks-bootstrapping/)
 - [Mastering CIDRs With Azure Bicep](https://luke.geek.nz/azure/Working-with-CIDR-Azure-Bicep/)
 - [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
 - [Reusability with export and import in Azure Bicep](https://johnlokerse.dev/2024/01/08/reusability-with-export-and-import-in-azure-bicep/)
