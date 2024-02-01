@@ -89,13 +89,13 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep)
 - [Azure NoOps Accelerator - Bicep Quickstart Deployment ](https://github.com/Azure/NoOpsAccelerator)
 - [Azure Spring Apps Reference Architecture - Bicep template](https://github.com/Azure/azure-spring-apps-landing-zone-accelerator/tree/main/Scenarios/ASA-Secure-Baseline/Bicep)
+- [Azure Verified Modules (AVM)](https://github.com/Azure/Azure-Verified-Modules)
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
 - [Bicep Registry Modules](https://github.com/Azure/bicep-registry-modules)
 - [Bicep samples for documentation](https://github.com/Azure/azure-docs-bicep-samples)
 - [Bicep Testing Framework (BenchPress)](https://github.com/Azure/benchpress)
 - [Bicep type definitions for ARM resources](https://github.com/Azure/bicep-types-az)
 - [Common Azure Resource Modules Library (CARML)](https://github.com/Azure/ResourceModules)
-- [Azure Verified Modules (AVM)](https://github.com/Azure/Azure-Verified-Modules)
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Template Best Practice Analyzer (BPA)](https://github.com/Azure/template-analyzer)
 
@@ -203,8 +203,9 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [ARM (and Bicep) Template Toolkit Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=Sam-Cogan.ARMTTKExtension)
 - [AzAdvertizer](https://www.azadvertizer.net/)
 - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
+- [Check-Azure-Bicep - pre-commit hooks for Azure Bicep validation](https://github.com/Azure4DevOps/check-azure-bicep)
 - [NubesGen - Automatically generate bicep for your project](https://nubesgen.com)
-- [check-azure-bicep - pre-commit hooks for Azure Bicep validation, with built-in support for GitHub Workflows, Azure Pipelines, and more! Enabling shift left approach for Azure Bicep infrastructure as code.](https://github.com/Azure4DevOps/check-azure-bicep)
+
 
 ### Community Repositories
 
