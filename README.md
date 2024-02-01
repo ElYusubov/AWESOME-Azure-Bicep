@@ -204,6 +204,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [AzAdvertizer](https://www.azadvertizer.net/)
 - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
 - [NubesGen - Automatically generate bicep for your project](https://nubesgen.com)
+- [check-azure-bicep - pre-commit hooks for Azure Bicep validation, with built-in support for GitHub Workflows, Azure Pipelines, and more! Enabling shift left approach for Azure Bicep infrastructure as code.](https://github.com/Azure4DevOps/check-azure-bicep)
 
 ### Community Repositories
 
