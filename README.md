@@ -95,6 +95,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep Testing Framework (BenchPress)](https://github.com/Azure/benchpress)
 - [Bicep type definitions for ARM resources](https://github.com/Azure/bicep-types-az)
 - [Common Azure Resource Modules Library (CARML)](https://github.com/Azure/ResourceModules)
+- [Azure Verified Modules (AVM)](https://github.com/Azure/Azure-Verified-Modules)
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Template Best Practice Analyzer (BPA)](https://github.com/Azure/template-analyzer)
 
