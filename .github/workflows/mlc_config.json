@@ -1,14 +1,5 @@
 {
-  "httpHeaders": [
-    {
-      "urls": [
-        "https://4sysops.com/"
-      ],
-      "headers": {
-        "Accept-Encoding": "zstd;q=1, br;q=0.9, gzip;q=0.8, deflate;q=0.7, compress;q=0.6, *;q=0.1, identity;q=0"
-      }
-    }
-  ],
+  "aliveStatusCodes": [403],
   "ignorePatterns": [
     {
       "pattern": "^https://www.reddit.com"
