@@ -2,6 +2,9 @@
   "ignorePatterns": [
     {
       "pattern": "^https://www.reddit.com"
+    },
+    {
+      "pattern": "^https://4sysops.com"
     }
   ]
 }
