@@ -1,4 +1,14 @@
 {
+  "httpHeaders": [
+    {
+      "urls": [
+        "https://4sysops.com/"
+      ],
+      "headers": {
+        "Accept-Encoding": "zstd, br, gzip, deflate"
+      }
+    }
+  ],
   "ignorePatterns": [
     {
       "pattern": "^https://www.reddit.com"
