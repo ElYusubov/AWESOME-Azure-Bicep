@@ -1,8 +1,10 @@
 {
-  "aliveStatusCodes": [403],
   "ignorePatterns": [
     {
       "pattern": "^https://www.reddit.com"
+    },
+    {
+      "pattern": "^https://www.4sysops.com"
     }
   ]
 }
