@@ -166,6 +166,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Chicken and the Egg: How to Handle Bicep Interdependencies](https://blog.johnfolberth.com/chicken-and-the-egg-how-to-handle-bicep-interdependencies/)
 - [Convert ARM templates to Azure Bicep](https://johnlokerse.dev/2022/02/20/convert-arm-templates-to-azure-bicep/)
 - [Create your first Azure Bicep template](https://www.techielass.com/create-your-first-azure-bicep-template/)
+- [Create your own function in Azure Bicep with user-defined functions](https://johnlokerse.dev/2024/03/18/create-your-own-function-in-azure-bicep-with-user-defined-functions/)
 - [Creating Reusable Infrastructure as Code Part 2: Creating Modules with Azure Bicep](https://samcogan.com/creating-modules-with-azure-bicep/)
 - [Deploy Azure Bicep using GitHub Actions](https://www.techielass.com/deploy-azure-bicep-using-github-actions/)
 - [Deploy Azure Infrastructure with Azure Bicep](https://www.kallemarjokorpi.fi/blog/deploy-azure-infrastructure-with-azure-bicep.html)
@@ -205,7 +206,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
 - [Check-Azure-Bicep - pre-commit hooks for Azure Bicep validation](https://github.com/Azure4DevOps/check-azure-bicep)
 - [NubesGen - Automatically generate bicep for your project](https://nubesgen.com)
-
 
 ### Community Repositories
 
