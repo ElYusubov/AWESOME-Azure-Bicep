@@ -1,4 +1,5 @@
 {
+  "aliveStatusCodes": [429, 200],
   "ignorePatterns": [
     {
       "pattern": "^https://www.reddit.com"
