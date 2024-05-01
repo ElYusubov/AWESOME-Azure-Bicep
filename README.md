@@ -213,7 +213,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#table-of-contents)
 
 - [AzInsider Dave Rendon](https://github.com/daveRendon)
-- [Azure Update Manager Accelerator][https://github.com/ThojoUno/aumAccelerator]
+- [Azure Update Manager Accelerator](https://github.com/ThojoUno/aumAccelerator)
 - [Ba4bes/Bicep-NamingConvention](https://github.com/Ba4bes/Bicep-NamingConvention)
 - [christosgalano/bicep-docs](https://github.com/christosgalano/bicep-docs)
 - [ElYusubov/Learn-Bicep](https://github.com/ElYusubov/Learn-Bicep)
