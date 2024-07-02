@@ -157,6 +157,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure best practice for Bicep with PSRule](https://rios.engineer/azure-spring-clean-azure-best-practice-for-bicep-with-psrule/)
 - [Azure Bicep Deployment with Deployment Stacks](https://luke.geek.nz/azure/Azure-Bicep-Deployment-with-Deployment-Stacks/)
 - [Azure Bicep lambda expressions](https://johnlokerse.dev/2022/09/26/azure-bicep-lambda-expressions/)
+- [Azure Bicep nullability operators explained](https://johnlokerse.dev/2024/06/10/azure-bicep-nullability-operators-explained/)
 - [Azure Bicep Playground: Transitioning from ARM templates into Bicep](https://medium.com/codex/azure-bicep-playground-transitioning-from-arm-templates-into-bicep-5c10c864c863)
 - [Azure Bicep posts on Cloud Marathoner's Journey](https://thecloudmarathoner.com/index.php/category/azure-bicep/)
 - [Azure Bicep Tips & Tricks](https://johnlokerse.dev/2023/09/11/azure-bicep-tips-tricks/)
