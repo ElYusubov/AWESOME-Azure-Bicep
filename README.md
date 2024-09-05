@@ -234,6 +234,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Packt Publishing - IaC with Azure Bicep](https://github.com/PacktPublishing/Infrastructure-as-Code-with-Azure-Bicep)
 - [PSBicep - Bicep PowerShell Module](https://github.com/PSBicep/PSBicep)
 - [PSBicep/BicepNet - A thin wrapper around Bicep that will load all bicep assemblies in a separate context](https://github.com/PSBicep/BicepNet)
+- [PSRule - A cross-platform module to validate infrastructure as code (IaC) and objects using PowerShell rules.](https://github.com/microsoft/PSRule)
 - [scautomation/Bicep-AzureMonitor-Sentinel](https://github.com/scautomation/Bicep-AzureMonitor-Sentinel)
 - [Welasco/Bicep - Create Private AKS Cluster using Bicep](https://github.com/Welasco/Bicep)
 - [your-azure-coach/bicep-azdevops](https://github.com/your-azure-coach/bicep-azdevops)
