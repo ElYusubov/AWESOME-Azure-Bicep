@@ -49,6 +49,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/?WT.mc_id=AZ-MVP-5004750)
 - [Bicep file structure and syntax](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/file/?WT.mc_id=AZ-MVP-5004750)
 - [Configure your Bicep environment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config/?WT.mc_id=AZ-MVP-5004750)
+- [Comparing JSON and Bicep for templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/compare-template-syntax?WT.mc_id=AZ-MVP-5004750)
 - [Create private registry for Bicep modules](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/private-module-registry?tabs=azure-powershell&WT.mc_id=AZ-MVP-5004750)
 - [Deploy Bicep files from Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cloud-shell?tabs=azure-cli&WT.mc_id=AZ-MVP-5004750)
 - [Deploy resources with Bicep and Azure PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell/?WT.mc_id=AZ-MVP-5004750)
