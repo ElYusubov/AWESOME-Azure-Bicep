@@ -174,6 +174,8 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Create your first Azure Bicep template](https://www.techielass.com/create-your-first-azure-bicep-template/)
 - [Create your own function in Azure Bicep with user-defined functions](https://johnlokerse.dev/2024/03/18/create-your-own-function-in-azure-bicep-with-user-defined-functions/)
 - [Creating Reusable Infrastructure as Code Part 2: Creating Modules with Azure Bicep](https://samcogan.com/creating-modules-with-azure-bicep/)
+- [Creating an Azure Landing Zone using Bicep - Part 1](https://insight-services-apac.github.io/2023/12/15/azure-landing-bicep1)
+- [Creating an Azure Landing Zone using Bicep - Part 2](https://insight-services-apac.github.io/2023/12/18/azure-landing-bicep2)
 - [Deploy Azure Bicep using GitHub Actions](https://www.techielass.com/deploy-azure-bicep-using-github-actions/)
 - [Deploy Azure Infrastructure with Azure Bicep](https://www.kallemarjokorpi.fi/blog/deploy-azure-infrastructure-with-azure-bicep.html)
 - [Deploy Azure Lab Services using Azure Bicep](https://blog.azinsider.net/deploy-azure-lab-services-using-azure-bicep-9fc0fa877446)
