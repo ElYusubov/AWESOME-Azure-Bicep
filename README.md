@@ -90,7 +90,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 - [AKS Bicep Accelerator](https://github.com/Azure/Aks-Construction)
 - [Azure Landing Zones (ALZ) - Bicep](https://github.com/Azure/ALZ-Bicep)
-- [Azure NoOps Accelerator - Bicep Quickstart Deployment ](https://github.com/Azure/NoOpsAccelerator)
 - [Azure Spring Apps Reference Architecture - Bicep template](https://github.com/Azure/azure-spring-apps-landing-zone-accelerator/tree/main/Scenarios/ASA-Secure-Baseline/Bicep)
 - [Azure Verified Modules (AVM)](https://github.com/Azure/Azure-Verified-Modules)
 - [Bicep Authoring Devcontainer](https://github.com/Azure/vscode-remote-try-bicep)
@@ -127,7 +126,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [EP7: Getting Started with Azure Bicep - Tutorial](https://www.youtube.com/watch?v=Vux7kvB-i-E)
 - [Mert to the Future #10 - Using Bicep to Create Your Azure Data Solution with Heini Ilmarinen](https://youtu.be/x7scP0xFoqo)
 - [Project Bicep Azure Infrastructure as Code (ARM Template Alternative) - Feb 22, 2021](https://youtu.be/F1zzrnXQwKU)
-- [Test with Bicep Linter - LinkedIn](https://www.linkedin.com/learning/azure-infrastructure-as-code-with-github/build-a-bicep-file)
 - [Transforming ARM into Azure Bicep](https://youtu.be/T2-bm_gmLCI)
 - [Understanding and Using Project BICEP - The NEW Azure Deployment Technology](https://youtu.be/_yvb6NVx61Y)
 
