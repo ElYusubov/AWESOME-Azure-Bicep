@@ -110,7 +110,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#table-of-contents)
 
 - [ARM (and Bicep) Template Masterclass](https://youtube.com/playlist?list=PLeh9xH-kbPPY9aXCmZfvh1l3lYn3R4PLu)
-- [Azure Bicep First Look - LinkedIn](https://www.linkedin.com/learning/azure-bicep-first-look/learning-azure-bicep)
 - [Azure Bicep: Get Up and Running](https://youtu.be/xF1wlYH1QrI)
 - [Azure Spring Clean 2022 - Bicep Registry](https://youtu.be/anDFspqUryk)
 - [Bicep for Real](https://youtube.com/playlist?list=PLeh9xH-kbPPY-6hUKuLKhFu_w2tKFVpl3)
