@@ -155,6 +155,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [5 Cool Things about Azure Bicep templates](https://www.techielass.com/5-cool-things-about-azure-bicep-templates/)
 - [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
+- [Addressing configuration drift using Deployment Stacks](https://insight-services-apac.github.io/2023/12/20/deployment-stacks)
 - [Azure best practice for Bicep with PSRule](https://rios.engineer/azure-spring-clean-azure-best-practice-for-bicep-with-psrule/)
 - [Azure Bicep Deployment with Deployment Stacks](https://luke.geek.nz/azure/Azure-Bicep-Deployment-with-Deployment-Stacks/)
 - [Azure Bicep lambda expressions](https://johnlokerse.dev/2022/09/26/azure-bicep-lambda-expressions/)
