@@ -115,6 +115,8 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep for Real](https://youtube.com/playlist?list=PLeh9xH-kbPPY-6hUKuLKhFu_w2tKFVpl3)
 - [Bicep vs Terraform - A fair and balanced comparison](https://youtu.be/3lTrIgTJ9yc)
 - [Build your first Azure Bicep Template](https://youtu.be/yTMYp2cR_Bg)
+- [Day 5 - Data Types in Azure Bicep](https://youtu.be/wUvoVfMClPU?feature=shared)
+- [Day 9 - Master Functions & Operators in Azure Bicep](https://youtu.be/4wOc2r33kEs?feature=shared)
 - [Day 15 - Deploying a solution in Azure using Bicep to investigate Network Anomalies by Dave Rendon](https://youtu.be/mQ8MhKlLEFQ)
 - [Day 15 - Let's flex our Biceps to help Santa by Marco Obinu](https://youtu.be/JFBul3x_1xU)
 - [Day 16 - Twelve features of Bicep – Christmas edition with Esther Barthel and Freek Berson](https://youtu.be/NmVbq6xLAuc)
