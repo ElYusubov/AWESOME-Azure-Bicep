@@ -194,6 +194,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Hardening parameter inputs on Azure Bicep files](https://thecloudmarathoner.com/index.php/2021/10/22/hardening-parameter-inputs-on-azure-bicep-files/)
 - [How to deploy Azure Policy with Bicep](https://andrewmatveychuk.com/how-to-deploy-azure-policy-with-bicep/)
 - [Import and Export feature across Bicep Templates](https://insight-services-apac.github.io/2023/12/22/export-import)
+- [Improve code generation with custom instructions for GitHub Copilot](https://johnlokerse.dev/2024/11/11/improve-code-generation-with-custom-instruction-for-github-copilot/)
 - [Introducing the “Helm Install Command” Bicep Module: Streamlining AKS bootstrapping](https://pixelrobots.co.uk/2024/01/introducing-the-helm-install-command-bicep-module-streamlining-aks-bootstrapping/)
 - [Mastering CIDRs With Azure Bicep](https://luke.geek.nz/azure/Working-with-CIDR-Azure-Bicep/)
 - [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
@@ -261,3 +262,4 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Stackoverflow with Azure Bicep](https://stackoverflow.com/questions/tagged/azure-bicep)
 - [Azure Bicep Discussions / Forum](https://github.com/Azure/bicep/discussions)
 - [Azure Bicep Reddit](https://www.reddit.com/r/AzureBicep/)
+- [Azure Bicep users LinkedIn community](https://www.linkedin.com/groups/13004126/)
