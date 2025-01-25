@@ -170,6 +170,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Budgets leveraging Bicep Registries](https://blog.johnfolberth.com/azure-budgets-leveraging-bicep-registries/)
 - [Bicep Templates: A Better Approach to Azure Infrastructure-as-Code](https://www.linkedin.com/pulse/bicep-templates-better-approach-azure-nauman-ahmed-ms-csm-pmp-xn5ie/)
 - [Building our new Azure Data Landing Zone IP](https://insight-services-apac.github.io/2023/12/21/rapid-build-of-dlz-ip)
+- [Chaining Bicep Deployments using Outputs and Stage Dependencies in Azure Pipelines](https://johnlokerse.dev/2025/01/20/chaining-bicep-deployments-using-outputs-and-stage-dependencies-in-azure-pipelines/)
 - [Checkov now supports scan Bicep- Bicep + Checkov + Azure DevOps](https://enlear.academy/checkov-now-supports-scan-bicep-bicep-checkov-azure-devops-8e9573e6502d)
 - [Chicken and the Egg: How to Handle Bicep Interdependencies](https://blog.johnfolberth.com/chicken-and-the-egg-how-to-handle-bicep-interdependencies/)
 - [Convert ARM templates to Azure Bicep](https://johnlokerse.dev/2022/02/20/convert-arm-templates-to-azure-bicep/)
