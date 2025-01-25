@@ -216,6 +216,9 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Why Dynamic Bicep is the Future of Azure Deployments](https://www.linkedin.com/pulse/why-dynamic-bicep-future-azure-deployments-chris-marabut-0bczc/)
 - [Why is Azure Bicep your next choice for Infrastructure As Code?](https://medium.com/codex/why-is-azure-bicep-your-next-choice-for-infrastructure-as-code-f10a2b924ca7)
 - [Work with environment variables in Azure Bicep](https://johnlokerse.dev/2023/10/02/work-with-environment-variables-in-azure-bicep/)
+- [Learning Infrastructure as Code (IaC): Environment Setup](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-environment-setup/)
+- [Learning Infrastructure as Code (IaC): Variables vs Parameters](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-variables-and-parameters/)
+- [Automating Certificate Management with keyvault-acme](https://blog.builtwithcaffeine.cloud/posts/iac-keyvault-acme/)
 
 ### Community Tools
 
