@@ -216,8 +216,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
 - [Whitelisting your Public IP with Azure Bicep and PowerShell](https://luke.geek.nz/azure/whitelisting-your-public-ip-with-azure-bicep/)
 - [Writing better Bicep with GitHub Copilot Custom Instructions](https://johnlokerse.dev/2024/10/10/writing-better-bicep-with-github-copilot-custom-instructions/)
-- [Zero downtime deployments with Azure Bicep](https://luke.geek.nz/azure/zero-downtime-deployments-with-azure-bicep/)
-
 ### Community Tools
 
 [Back To Top](#table-of-contents)
