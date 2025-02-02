@@ -215,7 +215,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [What are the good options to manage sensitive info in Azure Bicep?](https://thecloudmarathoner.com/index.php/2021/11/16/managing-azure-bicep-sensitive-info-with-key-vault/)
 - [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
 - [Whitelisting your Public IP with Azure Bicep and PowerShell](https://luke.geek.nz/azure/whitelisting-your-public-ip-with-azure-bicep/)
-- [Writing better Bicep with GitHub Copilot Custom Instructions](https://johnlokerse.dev/2024/10/10/writing-better-bicep-with-github-copilot-custom-instructions/)
+  
 ### Community Tools
 
 [Back To Top](#table-of-contents)
