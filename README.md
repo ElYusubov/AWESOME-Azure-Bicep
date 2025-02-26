@@ -186,6 +186,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Deploy Ubuntu VM with Prometheus and Grafana using Bicep Language](https://blog.azinsider.net/deploy-ubuntu-vm-with-prometheus-and-grafana-using-bicep-language-ca8164650482)
 - [Deploying Azure Bicep using GitHub Actions](https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/)
 - [Deployment Stacks for Bicep are awesome: a full walkthrough & sneak peek and of what's coming soon](https://www.linkedin.com/pulse/deployment-stacks-bicep-awesome-full-walkthrough-sneak-freek-berson/)
+- [Eliminate old API versions in your Azure Bicep templates](https://rios.engineer/eliminate-old-api-versions-in-your-azure-bicep-templates/)
 - [Enhance objects with User-Defined Types in Azure Bicep](https://johnlokerse.dev/2023/11/06/enhance-objects-with-user-defined-types-in-azure-bicep/)
 - [Enhance the readability of Azure Bicep templates with these tips](https://johnlokerse.dev/2024/09/03/enhance-the-readability-of-azure-bicep-templates-with-these-tips/)
 - [From Azure Bicep template to Azure resource](https://johnlokerse.dev/2024/07/15/from-azure-bicep-template-to-azure-resource/)
@@ -201,6 +202,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Learning Infrastructure as Code (IaC): Environment Setup](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-environment-setup/)
 - [Learning Infrastructure as Code (IaC): Variables vs Parameters](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-variables-and-parameters/)
 - [Mastering CIDRs With Azure Bicep](https://luke.geek.nz/azure/Working-with-CIDR-Azure-Bicep/)
+- [Pester Unit Tests for Azure Bicep Modules](https://rios.engineer/pester-unit-tests-for-azure-bicep-modules/)
 - [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
 - [Reusability with export and import in Azure Bicep](https://johnlokerse.dev/2024/01/08/reusability-with-export-and-import-in-azure-bicep/)
 - [Run PowerShell scripts with Azure Bicep](https://johnlokerse.dev/2022/12/04/run-powershell-scripts-with-azure-bicep/)
@@ -216,7 +218,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [What are the good options to manage sensitive info in Azure Bicep?](https://thecloudmarathoner.com/index.php/2021/11/16/managing-azure-bicep-sensitive-info-with-key-vault/)
 - [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
 - [Whitelisting your Public IP with Azure Bicep and PowerShell](https://luke.geek.nz/azure/whitelisting-your-public-ip-with-azure-bicep/)
-- [Writing better Bicep with GitHub Copilot Custom Instructions](https://johnlokerse.dev/2024/10/10/writing-better-bicep-with-github-copilot-custom-instructions/)
+  
 ### Community Tools
 
 [Back To Top](#table-of-contents)
