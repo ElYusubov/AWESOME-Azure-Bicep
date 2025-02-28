@@ -158,6 +158,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [5 Cool Things about Azure Bicep templates](https://www.techielass.com/5-cool-things-about-azure-bicep-templates/)
 - [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
 - [Addressing configuration drift using Deployment Stacks](https://insight-services-apac.github.io/2023/12/20/deployment-stacks)
+- [Apply Azure naming convention using Bicep functions](https://ronaldbosma.github.io/blog/2024/06/05/apply-azure-naming-convention-using-bicep-functions/)
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
 - [Automating Certificate Management with keyvault-acme](https://blog.builtwithcaffeine.cloud/posts/iac-keyvault-acme/)
 - [Azure best practice for Bicep with PSRule](https://rios.engineer/azure-spring-clean-azure-best-practice-for-bicep-with-psrule/)
