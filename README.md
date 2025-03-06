@@ -129,6 +129,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Mert to the Future #10 - Using Bicep to Create Your Azure Data Solution with Heini Ilmarinen](https://youtu.be/x7scP0xFoqo)
 - [Policy as Code with Bicep for Enterprise Scale](https://www.youtube.com/live/qpnMJXw6pIg?si=iOEqFlZfkhLV_v5o)
 - [Project Bicep Azure Infrastructure as Code (ARM Template Alternative) - Feb 22, 2021](https://youtu.be/F1zzrnXQwKU)
+- [The Future of AKS Monitoring: Trends and Tools You Can’t Ignore with Azure Bicep](https://youtu.be/_ccBwo7kJOA?si=da0XixXjd5hBPJes)
 - [Transforming ARM into Azure Bicep](https://youtu.be/T2-bm_gmLCI)
 - [Understanding and Using Project BICEP - The NEW Azure Deployment Technology](https://youtu.be/_yvb6NVx61Y)
 
