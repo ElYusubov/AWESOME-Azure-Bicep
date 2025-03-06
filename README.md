@@ -193,6 +193,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Eliminate old API versions in your Azure Bicep templates](https://rios.engineer/eliminate-old-api-versions-in-your-azure-bicep-templates/)
 - [Enhance objects with User-Defined Types in Azure Bicep](https://johnlokerse.dev/2023/11/06/enhance-objects-with-user-defined-types-in-azure-bicep/)
 - [Enhance the readability of Azure Bicep templates with these tips](https://johnlokerse.dev/2024/09/03/enhance-the-readability-of-azure-bicep-templates-with-these-tips/)
+- [Ensuring SQL Server Compliance with Bicep and Azure Policy](https://sqlstad.nl/posts/2025/ensuring-sql-server-compliance-with-bicep-and-azure-policy/)
 - [From Azure Bicep template to Azure resource](https://johnlokerse.dev/2024/07/15/from-azure-bicep-template-to-azure-resource/)
 - [Generate Bicep parameters with Azure CLI or Visual Studio Code](https://johnlokerse.dev/2022/07/26/generate-bicep-parameters-with-azure-cli-or-visual-studio-code/)
 - [Get a consistent Azure naming convention with Bicep modules](https://4bes.nl/2021/10/10/get-a-consistent-azure-naming-convention-with-bicep-modules/)
