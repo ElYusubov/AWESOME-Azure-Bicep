@@ -127,7 +127,9 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Getting Started with Azure Bicep](https://www.youtube.com/watch?v=77AfsFzTsI4)
 - [EP7: Getting Started with Azure Bicep - Tutorial](https://www.youtube.com/watch?v=Vux7kvB-i-E)
 - [Mert to the Future #10 - Using Bicep to Create Your Azure Data Solution with Heini Ilmarinen](https://youtu.be/x7scP0xFoqo)
+- [Policy as Code with Bicep for Enterprise Scale](https://www.youtube.com/live/qpnMJXw6pIg?si=iOEqFlZfkhLV_v5o)
 - [Project Bicep Azure Infrastructure as Code (ARM Template Alternative) - Feb 22, 2021](https://youtu.be/F1zzrnXQwKU)
+- [The Future of AKS Monitoring: Trends and Tools You Can’t Ignore with Azure Bicep](https://youtu.be/_ccBwo7kJOA?si=da0XixXjd5hBPJes)
 - [Transforming ARM into Azure Bicep](https://youtu.be/T2-bm_gmLCI)
 - [Understanding and Using Project BICEP - The NEW Azure Deployment Technology](https://youtu.be/_yvb6NVx61Y)
 
@@ -191,6 +193,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Eliminate old API versions in your Azure Bicep templates](https://rios.engineer/eliminate-old-api-versions-in-your-azure-bicep-templates/)
 - [Enhance objects with User-Defined Types in Azure Bicep](https://johnlokerse.dev/2023/11/06/enhance-objects-with-user-defined-types-in-azure-bicep/)
 - [Enhance the readability of Azure Bicep templates with these tips](https://johnlokerse.dev/2024/09/03/enhance-the-readability-of-azure-bicep-templates-with-these-tips/)
+- [Ensuring SQL Server Compliance with Bicep and Azure Policy](https://sqlstad.nl/posts/2025/ensuring-sql-server-compliance-with-bicep-and-azure-policy/)
 - [From Azure Bicep template to Azure resource](https://johnlokerse.dev/2024/07/15/from-azure-bicep-template-to-azure-resource/)
 - [Generate Bicep parameters with Azure CLI or Visual Studio Code](https://johnlokerse.dev/2022/07/26/generate-bicep-parameters-with-azure-cli-or-visual-studio-code/)
 - [Get a consistent Azure naming convention with Bicep modules](https://4bes.nl/2021/10/10/get-a-consistent-azure-naming-convention-with-bicep-modules/)
