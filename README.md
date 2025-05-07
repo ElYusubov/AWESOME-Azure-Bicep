@@ -270,7 +270,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
-- [Stackoverflow with Azure Bicep](https://stackoverflow.com/questions/tagged/azure-bicep)
+- [Stackoverflow with Azure Bicep](http://stackoverflow.com/questions/tagged/azure-bicep)
 - [Azure Bicep Discussions / Forum](https://github.com/Azure/bicep/discussions)
 - [Azure Bicep Reddit](https://www.reddit.com/r/AzureBicep/)
 - [Azure Bicep users LinkedIn community](https://www.linkedin.com/groups/13004126/)
