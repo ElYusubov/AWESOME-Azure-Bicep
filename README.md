@@ -102,6 +102,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Microsoft Graph Bicep extension (public preview)](https://github.com/microsoftgraph/msgraph-bicep-types)
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
 - [Template Best Practice Analyzer (BPA)](https://github.com/Azure/template-analyzer)
+- [Microsoft Graph Bicep extension (public preview)](https://github.com/microsoftgraph/msgraph-bicep-types)
 
 ## Community
 
