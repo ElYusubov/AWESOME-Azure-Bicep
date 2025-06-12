@@ -71,11 +71,11 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#table-of-contents)
 
 - [Bicep Community Calls & Azure Deployment & Governance Channel](https://www.youtube.com/channel/UCZZ3-oMrVI5ssheMzaWC4uQ/videos)
-- [Learn Live - Build your first Bicep template](https://www.youtube.com/live/jncLNpZzDz0?feature=shared)
+- [Build 2025 - Optimize Your Infrastructure as Code: Build Once, Deploy Anywhere](https://build.microsoft.com/en-US/sessions/DEM539?source=/speakers/7d045f08-c97c-41a7-a7dc-8a7fe5e15d48)
 - [How to use Azure Bicep for developing ARM templates | Azure Tips and Tricks](https://youtu.be/atWVFV7Y4vY)
 - [Learn everything about the next generation of ARM Templates](https://www.youtube.com/watch?v=sc1kJfcRQgY&t=6s)
+- [Learn Live - Build your first Bicep template](https://www.youtube.com/live/jncLNpZzDz0?feature=shared)
 - [Level up your skills with Bicep!](https://devblogs.microsoft.com/devops/level-up-your-skills-with-bicep/)
-- [Build 2025 - Optimize Your Infrastructure as Code: Build Once, Deploy Anywhere](https://build.microsoft.com/en-US/sessions/DEM539?source=/speakers/7d045f08-c97c-41a7-a7dc-8a7fe5e15d48)
 
 ### Announcements and Articles
 
@@ -148,11 +148,11 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
+- [Azure Bicep - Zero to Hero](https://leanpub.com/azurebicep)
 - [Azure Infrastructure as Code - With ARM templates and Bicep](https://www.manning.com/books/azure-infrastructure-as-code)
 - [Getting started with Bicep: Infrastructure as code](https://www.amazon.com/Getting-started-Bicep-Infrastructure-Azure-ebook/dp/B0984MQY2N)
 - [Infrastructure as Code with Azure Bicep](https://www.amazon.com/Infrastructure-Code-Azure-Bicep-complexities-ebook/dp/B09MFY582M/ref=pd_sim_sccl_1_1/138-4991526-2637316?pd_rd_w=Ehtas&pf_rd_p=262acb63-b997-4c81-83bd-9526eab7f618&pf_rd_r=51E2ZEVXM761ECZB2KYP&pd_rd_r=6566e50e-20b8-48dc-a42f-e45c27058abd&pd_rd_wg=JzrfD&pd_rd_i=B09MFY582M&psc=1)
 - [Infrastructure Management with Azure Bicep: Learn how to build reusable and scalable infrastructure using best practices for Infrastructure as Code (IaC)](https://www.amazon.com/Infrastructure-Management-Azure-Bicep-infrastructure-ebook/dp/B0CLRHP5RW)
-- [Azure Bicep - Zero to Hero](https://leanpub.com/azurebicep)
 
 ### Community Articles
 
@@ -210,6 +210,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Learning Infrastructure as Code (IaC): Environment Setup](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-environment-setup/)
 - [Learning Infrastructure as Code (IaC): Variables vs Parameters](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-variables-and-parameters/)
 - [Mastering CIDRs With Azure Bicep](https://luke.geek.nz/azure/Working-with-CIDR-Azure-Bicep/)
+- [Monitoring canceled Azure Subscriptions](https://cloudadministrator.net/2025/03/12/monitoring-canceled-azure-subscriptions/)
 - [Pester Unit Tests for Azure Bicep Modules](https://rios.engineer/pester-unit-tests-for-azure-bicep-modules/)
 - [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
 - [Reusability with export and import in Azure Bicep](https://johnlokerse.dev/2024/01/08/reusability-with-export-and-import-in-azure-bicep/)
@@ -242,8 +243,11 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#table-of-contents)
 
 - [AzInsider Dave Rendon](https://github.com/daveRendon)
+- [Azure Bicep Advent Calendar - An Azure Bicep journey from basic to advanced aligned to an Advent Calendar](https://insight-services-apac.github.io/2023/11/27/intro-advent-calendar)
+- [Azure Bicep Workshop - Deploy full stack app in Azure](https://github.com/erudinsky/Azure-Bicep-Workshop)
 - [Azure Update Manager Accelerator](https://github.com/ThojoUno/aumAccelerator)
 - [Ba4bes/Bicep-NamingConvention](https://github.com/Ba4bes/Bicep-NamingConvention)
+- [Bicep Deploy What-If Without Write Permissions Demo](https://github.com/matsest/bicep-deploy-whatif-without-write-demo)
 - [christosgalano/bicep-docs](https://github.com/christosgalano/bicep-docs)
 - [ElYusubov/Learn-Bicep](https://github.com/ElYusubov/Learn-Bicep)
 - [fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure](https://github.com/fberson/Getting-started-with-Bicep-Infrastructure-as-code-on-Azure)
@@ -256,24 +260,21 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [johnlokerse/azure-bicep-cheat-sheet](https://github.com/johnlokerse/azure-bicep-cheat-sheet)
 - [kevinevans1/learn-azure-bicep](https://github.com/kevinevans1/learn-azure-bicep)
 - [lordlinus/databricks-all-in-one-bicep-template](https://github.com/lordlinus/databricks-all-in-one-bicep-template)
+- [Master IaC with Azure Bicep at Global Azure Bootcamp Bulgaria 2025](https://github.com/slavizh/azure-bootcamp-2025)
 - [Packt Publishing - IaC with Azure Bicep](https://github.com/PacktPublishing/Infrastructure-as-Code-with-Azure-Bicep)
 - [PSBicep - Bicep PowerShell Module](https://github.com/PSBicep/PSBicep)
 - [PSBicep/BicepNet - A thin wrapper around Bicep that will load all bicep assemblies in a separate context](https://github.com/PSBicep/BicepNet)
 - [PSRule - A cross-platform module to validate infrastructure as code (IaC) and objects using PowerShell rules.](https://github.com/microsoft/PSRule)
+- [riosengineer/Bicepify - Easy to digest Bicep concept demo examples](https://github.com/riosengineer/Bicepify)
 - [scautomation/Bicep-AzureMonitor-Sentinel](https://github.com/scautomation/Bicep-AzureMonitor-Sentinel)
 - [Welasco/Bicep - Create Private AKS Cluster using Bicep](https://github.com/Welasco/Bicep)
 - [your-azure-coach/bicep-azdevops](https://github.com/your-azure-coach/bicep-azdevops)
-- [riosengineer/Bicepify - Easy to digest Bicep concept demo examples](https://github.com/riosengineer/Bicepify)
-- [Azure Bicep Workshop - Deploy full stack app in Azure](https://github.com/erudinsky/Azure-Bicep-Workshop)
-- [Azure Bicep Advent Calendar - An Azure Bicep journey from basic to advanced aligned to an Advent Calendar](https://insight-services-apac.github.io/2023/11/27/intro-advent-calendar)
-- [Bicep Deploy What-If Without Write Permissions Demo](https://github.com/matsest/bicep-deploy-whatif-without-write-demo)
-- [Master IaC with Azure Bicep at Global Azure Bootcamp Bulgaria 2025](https://github.com/slavizh/azure-bootcamp-2025)
 
 ### Community Forums
 
 [Back To Top](#table-of-contents)
 
-- [Stackoverflow with Azure Bicep](http://stackoverflow.com/)
 - [Azure Bicep Discussions / Forum](https://github.com/Azure/bicep/discussions)
 - [Azure Bicep Reddit](https://www.reddit.com/r/AzureBicep/)
 - [Azure Bicep users LinkedIn community](https://www.linkedin.com/groups/13004126/)
+- [Stackoverflow with Azure Bicep](http://stackoverflow.com/)
