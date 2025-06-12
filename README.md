@@ -265,6 +265,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [riosengineer/Bicepify - Easy to digest Bicep concept demo examples](https://github.com/riosengineer/Bicepify)
 - [Azure Bicep Workshop - Deploy full stack app in Azure](https://github.com/erudinsky/Azure-Bicep-Workshop)
 - [Azure Bicep Advent Calendar - An Azure Bicep journey from basic to advanced aligned to an Advent Calendar](https://insight-services-apac.github.io/2023/11/27/intro-advent-calendar)
+- [Bicep Deploy What-If Without Write Permissions Demo](https://github.com/matsest/bicep-deploy-whatif-without-write-demo)
 
 ### Community Forums
 
