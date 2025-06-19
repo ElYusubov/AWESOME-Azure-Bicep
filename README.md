@@ -180,6 +180,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Chaining Bicep Deployments using Outputs and Stage Dependencies in Azure Pipelines](https://johnlokerse.dev/2025/01/20/chaining-bicep-deployments-using-outputs-and-stage-dependencies-in-azure-pipelines/)
 - [Checkov now supports scan Bicep- Bicep + Checkov + Azure DevOps](https://enlear.academy/checkov-now-supports-scan-bicep-bicep-checkov-azure-devops-8e9573e6502d)
 - [Chicken and the Egg: How to Handle Bicep Interdependencies](https://blog.johnfolberth.com/chicken-and-the-egg-how-to-handle-bicep-interdependencies/)
+- [Control your Azure Bicep deployment flow with the fail function](https://johnlokerse.dev/2025/05/06/control-your-azure-bicep-deployment-flow-with-the-fail-function/)
 - [Convert ARM templates to Azure Bicep](https://johnlokerse.dev/2022/02/20/convert-arm-templates-to-azure-bicep/)
 - [Create your first Azure Bicep template](https://www.techielass.com/create-your-first-azure-bicep-template/)
 - [Create your own function in Azure Bicep with user-defined functions](https://johnlokerse.dev/2024/03/18/create-your-own-function-in-azure-bicep-with-user-defined-functions/)
