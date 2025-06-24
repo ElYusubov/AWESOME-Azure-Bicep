@@ -160,6 +160,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#table-of-contents)
 
 - [5 Cool Things about Azure Bicep templates](https://www.techielass.com/5-cool-things-about-azure-bicep-templates/)
+- [6-Part Bicep Deployment Series](https://www.nathannellans.com/post/all-about-bicep-deploying-bicep-files)
 - [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
 - [Addressing configuration drift using Deployment Stacks](https://insight-services-apac.github.io/2023/12/20/deployment-stacks)
 - [Apply Azure naming convention using Bicep functions](https://ronaldbosma.github.io/blog/2024/06/05/apply-azure-naming-convention-using-bicep-functions/)
@@ -250,6 +251,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Bicep Workshop - Deploy full stack app in Azure](https://github.com/erudinsky/Azure-Bicep-Workshop)
 - [Azure Update Manager Accelerator](https://github.com/ThojoUno/aumAccelerator)
 - [Ba4bes/Bicep-NamingConvention](https://github.com/Ba4bes/Bicep-NamingConvention)
+- [Bicep Guide (advanced)](https://github.com/nnellans/bicep-guide/)
 - [Bicep Deploy What-If Without Write Permissions Demo](https://github.com/matsest/bicep-deploy-whatif-without-write-demo)
 - [christosgalano/bicep-docs](https://github.com/christosgalano/bicep-docs)
 - [ElYusubov/Learn-Bicep](https://github.com/ElYusubov/Learn-Bicep)
