@@ -201,6 +201,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Enhance the readability of Azure Bicep templates with these tips](https://johnlokerse.dev/2024/09/03/enhance-the-readability-of-azure-bicep-templates-with-these-tips/)
 - [Ensuring SQL Server Compliance with Bicep and Azure Policy](https://sqlstad.nl/posts/2025/ensuring-sql-server-compliance-with-bicep-and-azure-policy/)
 - [From Azure Bicep template to Azure resource](https://johnlokerse.dev/2024/07/15/from-azure-bicep-template-to-azure-resource/)
+- [From Prompt to Bicep: GitHub Copilot for Azure in Action](https://johnlokerse.dev/2025/06/30/from-prompt-to-bicep-github-copilot-for-azure-in-action/)
 - [Generate Bicep parameters with Azure CLI or Visual Studio Code](https://johnlokerse.dev/2022/07/26/generate-bicep-parameters-with-azure-cli-or-visual-studio-code/)
 - [Generate Azure Bicep documentation with PSDocs!](https://cloudtips.nl/generate-azure-bicep-documentation-with-psdocs-3dd2fb2b484e)
 - [Get a consistent Azure naming convention with Bicep modules](https://4bes.nl/2021/10/10/get-a-consistent-azure-naming-convention-with-bicep-modules/)
