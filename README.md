@@ -194,6 +194,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Deploy Azure Lab Services using Azure Bicep](https://blog.azinsider.net/deploy-azure-lab-services-using-azure-bicep-9fc0fa877446)
 - [Deploy Azure Virtual Desktop using DevOps Pipelines and Bicep](https://blog.poffers.cloud/posts/2025-01-avd-image-posts/setup-avd-environment-infrastructure_as_code/)
 - [Deploy Ubuntu VM with Prometheus and Grafana using Bicep Language](https://blog.azinsider.net/deploy-ubuntu-vm-with-prometheus-and-grafana-using-bicep-language-ca8164650482)
+- [Deploy Azure Arc resources on Azure Local with Azure Bicep](https://cloudtips.nl/deploy-azure-arc-resources-on-azure-local-with-azure-bicep-e16148963e5c)
 - [Deploying Azure Bicep using GitHub Actions](https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/)
 - [Deployment Stacks for Bicep are awesome: a full walkthrough & sneak peek and of what's coming soon](https://www.linkedin.com/pulse/deployment-stacks-bicep-awesome-full-walkthrough-sneak-freek-berson/)
 - [Eliminate old API versions in your Azure Bicep templates](https://rios.engineer/eliminate-old-api-versions-in-your-azure-bicep-templates/)
