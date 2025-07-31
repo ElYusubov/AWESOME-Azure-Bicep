@@ -139,7 +139,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
-- [079 - We're talking about Azure Bicep](https://podtail.com/en/podcast/ctrl-alt-azure/079-we-re-talking-about-azure-bicep/)
 - [Azure Greg chats to Elkhan Yusubov about Bicep, Cloud Marathoner and Cloud Journey](https://www.youtube.com/live/798YR9dRNmU)
 - [Azure Greg chats to Freek Berson about Bicep and covers 3 exciting new features ](https://www.youtube.com/live/E-j022nCRFM)
 - [Episode 21: Bicep with Alex Frankel](https://unhandledexceptionpodcast.com/posts/0021-bicep/)
