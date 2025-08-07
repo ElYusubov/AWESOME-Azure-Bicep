@@ -176,6 +176,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Bicep: Deploy a virtual machine with Office pre-installed](https://blog.azinsider.net/azure-bicep-deploy-a-virtual-machine-with-office-pre-installed-c7f329e3e2dc)
 - [Azure Bicep: Getting started guide](https://4sysops.com/archives/azure-bicep-getting-started-guide/)
 - [Azure Budgets leveraging Bicep Registries](https://blog.johnfolberth.com/azure-budgets-leveraging-bicep-registries/)
+- [Assign Microsoft Graph permissions using Azure Bicep](https://cloudtips.nl/assign-microsoft-graph-permissions-using-azure-bicep-740f0e6214c5)
 - [Bicep: Azure Virtual Network Manager](https://cloudmechanix.com/2025/07/17/bicep-azure-virtual-network-manager/)
 - [Building our new Azure Data Landing Zone IP](https://insight-services-apac.github.io/2023/12/21/rapid-build-of-dlz-ip)
 - [Chaining Bicep Deployments using Outputs and Stage Dependencies in Azure Pipelines](https://johnlokerse.dev/2025/01/20/chaining-bicep-deployments-using-outputs-and-stage-dependencies-in-azure-pipelines/)
