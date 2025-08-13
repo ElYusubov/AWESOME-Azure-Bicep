@@ -196,6 +196,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Deploy Azure Infrastructure with Azure Bicep](https://www.kallemarjokorpi.fi/blog/deploy-azure-infrastructure-with-azure-bicep.html)
 - [Deploy Azure Lab Services using Azure Bicep](https://blog.azinsider.net/deploy-azure-lab-services-using-azure-bicep-9fc0fa877446)
 - [Deploy Azure Virtual Desktop using DevOps Pipelines and Bicep](https://blog.poffers.cloud/posts/2025-01-avd-image-posts/setup-avd-environment-infrastructure_as_code/)
+- [Deploy Microsoft Security Copilot using Azure Bicep](https://cloudtips.nl/deploy-microsoft-security-copilot-using-azure-bicep-1c59c059e17b)
 - [Deploy Ubuntu VM with Prometheus and Grafana using Bicep Language](https://blog.azinsider.net/deploy-ubuntu-vm-with-prometheus-and-grafana-using-bicep-language-ca8164650482)
 - [Deploying Azure Bicep using GitHub Actions](https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/)
 - [Deployment Stacks for Bicep are awesome: a full walkthrough & sneak peek and of what's coming soon](https://www.linkedin.com/pulse/deployment-stacks-bicep-awesome-full-walkthrough-sneak-freek-berson/)
