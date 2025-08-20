@@ -81,6 +81,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
+- [Announcing GA of Bicep templates support for Microsoft Entra ID resources](https://devblogs.microsoft.com/identity/bicep-templates-for-microsoft-entra-id-resources-is-ga/)
 - [Azure Pipelines for Bicep Tasks](https://marketplace.visualstudio.com/items?itemName=piraces.bicep-tasks)
 - [Comparing JSON and Bicep for templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/compare-template-syntax?WT.mc_id=AZ-MVP-5004750)
 - [Decompiling ARM template JSON to Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/decompile?tabs=azure-cli&WT.mc_id=AZ-MVP-5004750)
@@ -236,6 +237,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Three use cases for using GitHub Copilot with Azure Bicep](https://johnlokerse.dev/2023/02/27/three-use-cases-for-using-github-copilot-with-azure-bicep/)
 - [Troubleshooting steps with the Azure Bicep Insert and system path errors](https://thecloudmarathoner.com/index.php/2023/03/08/my-troubleshooting-steps-with-the-azure-bicep-insert-and-system-path-errors/)
 - [Use cases for GitHub Copilot and Bicep](https://insight-services-apac.github.io/2023/12/21/github-copilot)
+- [Using the Microsoft Azure Bicep Graph Extension to Create Security Groups and Assign Roles in an Azure Landing Zone](https://mmachniak.net/2025/08/11/Bicep-Graph-Extension-ALZ-RBAC/)
 - [What are the good options to manage sensitive info in Azure Bicep?](https://thecloudmarathoner.com/index.php/2021/11/16/managing-azure-bicep-sensitive-info-with-key-vault/)
 - [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
 - [Whitelisting your Public IP with Azure Bicep and PowerShell](https://luke.geek.nz/azure/whitelisting-your-public-ip-with-azure-bicep/)
