@@ -225,6 +225,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Monitoring canceled Azure Subscriptions](https://cloudadministrator.net/2025/03/12/monitoring-canceled-azure-subscriptions/)
 - [Passing Resources between Azure Bicep modules](https://cloudadministrator.net/2025/03/06/passing-resources-between-azure-bicep-modules/)
 - [Pester Unit Tests for Azure Bicep Modules](https://rios.engineer/pester-unit-tests-for-azure-bicep-modules/)
+- [Power Azure Bicep with Best Practices Using GitHub Copilot](https://cloudtips.nl/power-azure-bicep-with-best-practices-using-github-copilot-835716b15546)
 - [Project Bicep: ARM Templates Re-Imagined](https://samcogan.com/project-bicep-arm-templates-re-imagined/)
 - [Reusability with export and import in Azure Bicep](https://johnlokerse.dev/2024/01/08/reusability-with-export-and-import-in-azure-bicep/)
 - [Run PowerShell scripts with Azure Bicep](https://johnlokerse.dev/2022/12/04/run-powershell-scripts-with-azure-bicep/)
