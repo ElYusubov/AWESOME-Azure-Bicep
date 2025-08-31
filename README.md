@@ -178,6 +178,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Bicep: Getting started guide](https://4sysops.com/archives/azure-bicep-getting-started-guide/)
 - [Azure Bicep: Update Management - Maintenance Configuration](https://blog.builtwithcaffeine.cloud/posts/aum-maintenance-configuration-bicep/)
 - [Azure Budgets leveraging Bicep Registries](https://blog.johnfolberth.com/azure-budgets-leveraging-bicep-registries/)
+- [Azure Deployment Stacks: Zero to Hero 🦾❤️](https://rios.engineer/azure-deployment-stacks-zero-to-hero-🦾❤%EF%B8%8F/)
 - [Assign Microsoft Graph permissions using Azure Bicep](https://cloudtips.nl/assign-microsoft-graph-permissions-using-azure-bicep-740f0e6214c5)
 - [Bicep: Azure Virtual Network Manager](https://cloudmechanix.com/2025/07/17/bicep-azure-virtual-network-manager/)
 - [Building our new Azure Data Landing Zone IP](https://insight-services-apac.github.io/2023/12/21/rapid-build-of-dlz-ip)
