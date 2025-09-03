@@ -127,6 +127,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Day 24 - Arm your Bicep with D(i)SC - how to make your life easier while building new environments - 2021](https://youtu.be/fg9N-LVPzu0)
 - [Deployment Stacks Deep Dive - John Savill](https://youtu.be/d1AE8qLwBYw?feature=shared)
 - [Embrace Infrastructure as Code Right Now With Azure Bicep - Nashville Azure Users Group - Feb 18, 2022](https://youtu.be/lpCHYNP50Bw)
+- [From Code to Cloud: CI/CD Workflows for Bicep That Scale - Infrastructure as Code User Group Oslo - Jul 2, 2025](https://www.youtube.com/watch?v=NLaSm82xOkI)
 - [Getting Started with Azure Bicep](https://www.youtube.com/watch?v=77AfsFzTsI4)
 - [EP7: Getting Started with Azure Bicep - Tutorial](https://www.youtube.com/watch?v=Vux7kvB-i-E)
 - [Mert to the Future #10 - Using Bicep to Create Your Azure Data Solution with Heini Ilmarinen](https://youtu.be/x7scP0xFoqo)
@@ -176,8 +177,10 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Bicep: Deploy a virtual machine with Office pre-installed](https://blog.azinsider.net/azure-bicep-deploy-a-virtual-machine-with-office-pre-installed-c7f329e3e2dc)
 - [Azure Bicep: Getting started guide](https://4sysops.com/archives/azure-bicep-getting-started-guide/)
 - [Azure Bicep: Update Management - Maintenance Configuration](https://blog.builtwithcaffeine.cloud/posts/aum-maintenance-configuration-bicep/)
+- [Azure Blueprints are dead: long live Specs and Stacks?](https://azurescholar.cloud/azure-blueprints-are-dead-long-live-specs-and-stacks)
 - [Azure Budgets leveraging Bicep Registries](https://blog.johnfolberth.com/azure-budgets-leveraging-bicep-registries/)
 - [Azure Deployment Stacks: Zero to Hero 🦾❤️](https://rios.engineer/azure-deployment-stacks-zero-to-hero-🦾❤%EF%B8%8F/)
+- [Azure Verified Modules and private modules: a powerful combo](https://azurescholar.cloud/azure-verified-modules-and-private-modules-a-powerful-combo)
 - [Assign Microsoft Graph permissions using Azure Bicep](https://cloudtips.nl/assign-microsoft-graph-permissions-using-azure-bicep-740f0e6214c5)
 - [Bicep: Azure Virtual Network Manager](https://cloudmechanix.com/2025/07/17/bicep-azure-virtual-network-manager/)
 - [Building our new Azure Data Landing Zone IP](https://insight-services-apac.github.io/2023/12/21/rapid-build-of-dlz-ip)
@@ -223,6 +226,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Learning Infrastructure as Code (IaC): Variables vs Parameters](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-variables-and-parameters/)
 - [Mastering CIDRs With Azure Bicep](https://luke.geek.nz/azure/Working-with-CIDR-Azure-Bicep/)
 - [Monitoring canceled Azure Subscriptions](https://cloudadministrator.net/2025/03/12/monitoring-canceled-azure-subscriptions/)
+- [New ALZ Accelerator: lessons learned](https://azurescholar.cloud/new-alz-accelerator-lessons-learned)
 - [Passing Resources between Azure Bicep modules](https://cloudadministrator.net/2025/03/06/passing-resources-between-azure-bicep-modules/)
 - [Pester Unit Tests for Azure Bicep Modules](https://rios.engineer/pester-unit-tests-for-azure-bicep-modules/)
 - [Power Azure Bicep with Best Practices Using GitHub Copilot](https://cloudtips.nl/power-azure-bicep-with-best-practices-using-github-copilot-835716b15546)
@@ -249,6 +253,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 - [ARM (and Bicep) Template Toolkit Azure DevOps Extension](https://marketplace.visualstudio.com/items?itemName=Sam-Cogan.ARMTTKExtension)
 - [AzAdvertizer](https://www.azadvertizer.net/)
+- [Az-bootstrap - helps to set up Azure and GitHub environments for IaC projects](https://github.com/kewalaka/az-bootstrap)
 - [Azure Databricks Bicep Local Deploy extension](https://github.com/Gijsreyn/bicep-ext-databricks)
 - [Azure DevOps Bicep Local Deploy extension](https://github.com/johnlokerse/azure-devops-bicep-local-deploy)
 - [Bicep Playground](https://aka.ms/bicepdemo)
@@ -290,6 +295,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [riosengineer/Bicepify - Easy to digest Bicep concept demo examples](https://github.com/riosengineer/Bicepify)
 - [scautomation/Bicep-AzureMonitor-Sentinel](https://github.com/scautomation/Bicep-AzureMonitor-Sentinel)
 - [Welasco/Bicep - Create Private AKS Cluster using Bicep](https://github.com/Welasco/Bicep)
+- [Working with Azure Virtual Network Manager - Workshop](https://workshops.iac-labs.com/avnm-labs/)
 - [your-azure-coach/bicep-azdevops](https://github.com/your-azure-coach/bicep-azdevops)
 
 ### Community Forums
