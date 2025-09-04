@@ -295,7 +295,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [riosengineer/Bicepify - Easy to digest Bicep concept demo examples](https://github.com/riosengineer/Bicepify)
 - [scautomation/Bicep-AzureMonitor-Sentinel](https://github.com/scautomation/Bicep-AzureMonitor-Sentinel)
 - [Welasco/Bicep - Create Private AKS Cluster using Bicep](https://github.com/Welasco/Bicep)
-- [Working with Azure Virtual Network Manager - Workshop](https://workshops.iac-labs.com/avnm-labs/)
 - [your-azure-coach/bicep-azdevops](https://github.com/your-azure-coach/bicep-azdevops)
 
 ### Community Forums
