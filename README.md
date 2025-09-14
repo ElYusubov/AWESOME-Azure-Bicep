@@ -314,4 +314,4 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Bicep Discussions / Forum](https://github.com/Azure/bicep/discussions)
 - [Azure Bicep Reddit](https://www.reddit.com/r/AzureBicep/)
 - [Azure Bicep users LinkedIn community](https://www.linkedin.com/groups/13004126/)
-- [Stackoverflow with Azure Bicep](http://stackoverflow.com/)
+- [Stackoverflow with Azure Bicep]()
