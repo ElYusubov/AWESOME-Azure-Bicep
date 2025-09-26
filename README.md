@@ -227,6 +227,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Import and Export feature across Bicep Templates](https://insight-services-apac.github.io/2023/12/22/export-import)
 - [Improve code generation with custom instructions for GitHub Copilot](https://johnlokerse.dev/2024/11/11/improve-code-generation-with-custom-instruction-for-github-copilot/)
 - [Introducing the “Helm Install Command” Bicep Module: Streamlining AKS bootstrapping](https://pixelrobots.co.uk/2024/01/introducing-the-helm-install-command-bicep-module-streamlining-aks-bootstrapping/)
+- [Keep Hackers Out with Multi-User Authorization for Azure Backups using Azure Bicep](https://cloudtips.nl/keep-hackers-out-with-multi-user-authorization-for-azure-backups-dd4d7c0d3257)
 - [Learning Infrastructure as Code (IaC): Environment Setup](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-environment-setup/)
 - [Learning Infrastructure as Code (IaC): Variables vs Parameters](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-variables-and-parameters/)
 - [Mastering CIDRs With Azure Bicep](https://luke.geek.nz/azure/Working-with-CIDR-Azure-Bicep/)
