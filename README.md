@@ -197,6 +197,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Creating an Azure Landing Zone using Bicep - Part 1](https://insight-services-apac.github.io/2023/12/15/azure-landing-bicep1)
 - [Creating an Azure Landing Zone using Bicep - Part 2](https://insight-services-apac.github.io/2023/12/18/azure-landing-bicep2)
 - [Creating Reusable Infrastructure as Code Part 2: Creating Modules with Azure Bicep](https://samcogan.com/creating-modules-with-azure-bicep/)
+- [Custom Azure Bicep chat modes for GitHub Copilot](https://johnlokerse.dev/2025/09/08/custom-azure-bicep-chat-modes-for-github-copilot/)
 - [Deploy Azure Arc resources on Azure Local with Azure Bicep](https://cloudtips.nl/deploy-azure-arc-resources-on-azure-local-with-azure-bicep-e16148963e5c)
 - [Deploy Azure Bicep using GitHub Actions](https://www.techielass.com/deploy-azure-bicep-using-github-actions/)
 - [Deploy Azure Infrastructure with Azure Bicep](https://www.kallemarjokorpi.fi/blog/deploy-azure-infrastructure-with-azure-bicep.html)
