@@ -280,6 +280,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [AzInsider Dave Rendon](https://github.com/daveRendon)
 - [Azure Bicep Advent Calendar - An Azure Bicep journey from basic to advanced aligned to an Advent Calendar](https://insight-services-apac.github.io/2023/11/27/intro-advent-calendar)
 - [Azure Bicep Workshop - Deploy full stack app in Azure](https://github.com/erudinsky/Azure-Bicep-Workshop)
+- [Azure Deployment Framework](https://github.com/brwilkinson/AzureDeploymentFramework)
 - [Azure Update Manager Accelerator](https://github.com/ThojoUno/aumAccelerator)
 - [Ba4bes/Bicep-NamingConvention](https://github.com/Ba4bes/Bicep-NamingConvention)
 - [Bicep Databricks extension](https://github.com/Gijsreyn/bicep-ext-databricks)
