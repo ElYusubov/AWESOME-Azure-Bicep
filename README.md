@@ -102,6 +102,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Common Azure Resource Modules Library (CARML)](https://github.com/Azure/ResourceModules)
 - [Microsoft Graph Bicep extension (public preview)](https://github.com/microsoftgraph/msgraph-bicep-types)
 - [Project Bicep - an ARM DSL](https://github.com/Azure/bicep)
+- [PSRule for Azure - A suite of rules to test Azure resources and Infrastructure as Code (IaC) using PSRule, including Bicep syntax](https://github.com/Azure/PSRule.Rules.Azure)
 - [Template Best Practice Analyzer (BPA)](https://github.com/Azure/template-analyzer)
 - [Trainer-Demo-Deploy Catalog](https://microsoftlearning.github.io/trainer-demo-deploy/)
 
