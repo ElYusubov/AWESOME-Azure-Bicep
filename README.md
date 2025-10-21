@@ -259,6 +259,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [What are the good options to manage sensitive info in Azure Bicep?](https://thecloudmarathoner.com/index.php/2021/11/16/managing-azure-bicep-sensitive-info-with-key-vault/)
 - [What is new in Azure Bicep v0.4?](https://thecloudmarathoner.com/index.php/2021/09/02/how-to-check-and-update-azure-cli-verison-on-your-workstation/)
 - [Whitelisting your Public IP with Azure Bicep and PowerShell](https://luke.geek.nz/azure/whitelisting-your-public-ip-with-azure-bicep/)
+- [Using the Microsoft Azure Bicep Graph Extension to Create Security Groups and Assign Roles in an Azure Landing Zone](https://mmachniak.net/2025/08/11/Bicep-Graph-Extension-ALZ-RBAC/)
   
 ### Community Tools
 
@@ -273,6 +274,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Check-Azure-Bicep - pre-commit hooks for Azure Bicep validation](https://github.com/Azure4DevOps/check-azure-bicep)
 - [NubesGen - Automatically generate bicep for your project](https://nubesgen.com)
 - [GitHub Bicep Linting Action](https://github.com/marketplace/actions/bicep-linting)
+- [Bicep Local Extension - Password Generator](https://github.com/mimachniak/bicep-ext-PassWordGenerator)
 
 ### Community Repositories
 
