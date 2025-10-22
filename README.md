@@ -270,6 +270,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Databricks Bicep Local Deploy extension](https://github.com/Gijsreyn/bicep-ext-databricks)
 - [Azure DevOps Bicep Local Deploy extension](https://github.com/johnlokerse/azure-devops-bicep-local-deploy)
 - [Bicep Playground](https://aka.ms/bicepdemo)
+- [Bicep Local Extension - Password Generator](https://github.com/mimachniak/bicep-ext-PassWordGenerator)
 - [Check-Azure-Bicep - pre-commit hooks for Azure Bicep validation](https://github.com/Azure4DevOps/check-azure-bicep)
 - [NubesGen - Automatically generate bicep for your project](https://nubesgen.com)
 - [GitHub Bicep Linting Action](https://github.com/marketplace/actions/bicep-linting)
