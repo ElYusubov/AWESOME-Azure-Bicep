@@ -187,6 +187,8 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Behind the scenes of Bicep.LocalDeploy: A Developer's Guide](https://www.idontlikeai.dev/behind-the-scenes-of-bicep-localdeploy-a-developers-guide/)
 - [Bicep: Azure Virtual Network Manager](https://cloudmechanix.com/2025/07/17/bicep-azure-virtual-network-manager/)
 - [Bicep for Graph resources](https://msftplayground.com/2025/01/bicep-for-graph-resources)
+- [Bicep pattern parameter](https://msftplayground.com/2025/09/bicep-pattern-parameter)
+- [Build a Custom Extension for Bicep](https://msftplayground.com/2025/09/bicep-custom-extension)
 - [Building our new Azure Data Landing Zone IP](https://insight-services-apac.github.io/2023/12/21/rapid-build-of-dlz-ip)
 - [Chaining Bicep Deployments using Outputs and Stage Dependencies in Azure Pipelines](https://johnlokerse.dev/2025/01/20/chaining-bicep-deployments-using-outputs-and-stage-dependencies-in-azure-pipelines/)
 - [Checkov now supports scan Bicep- Bicep + Checkov + Azure DevOps](https://enlear.academy/checkov-now-supports-scan-bicep-bicep-checkov-azure-devops-8e9573e6502d)
