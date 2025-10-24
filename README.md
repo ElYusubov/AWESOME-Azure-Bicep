@@ -182,6 +182,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Blueprints are dead: long live Specs and Stacks?](https://azurescholar.cloud/azure-blueprints-are-dead-long-live-specs-and-stacks)
 - [Azure Budgets leveraging Bicep Registries](https://blog.johnfolberth.com/azure-budgets-leveraging-bicep-registries/)
 - [Azure Deployment Stacks: Zero to Hero 🦾❤️](https://rios.engineer/azure-deployment-stacks-zero-to-hero-🦾❤%EF%B8%8F/)
+- [Azure Deployment Stacks: Linking Azure Deployment Stacks: Overcoming ARM Size Limits and Managing Dependencies](https://under-ctrl.com/posts/azure-deployment-stacks-arm-limits-p-1/)
 - [Azure Verified Modules and private modules: a powerful combo](https://azurescholar.cloud/azure-verified-modules-and-private-modules-a-powerful-combo)
 - [Assign Microsoft Graph permissions using Azure Bicep](https://cloudtips.nl/assign-microsoft-graph-permissions-using-azure-bicep-740f0e6214c5)
 - [Behind the scenes of Bicep.LocalDeploy: A Developer's Guide](https://www.idontlikeai.dev/behind-the-scenes-of-bicep-localdeploy-a-developers-guide/)
