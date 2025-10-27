@@ -55,7 +55,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Deploy resources with Bicep and Azure PowerShell](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell/?WT.mc_id=AZ-MVP-5004750)
 - [Frequently asked questions for Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/frequently-asked-questions?WT.mc_id=AZ-MVP-5004750)
 - [How to deploy resources with Bicep and Azure CLI](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cli/?WT.mc_id=AZ-MVP-5004750)
-- [How to use Azure Bicep for developing ARM templates - Jan 5, 2022](https://microsoft.github.io/AzureTipsAndTricks/blog/tip347.html)
 - [Install Bicep tools](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/install/?WT.mc_id=AZ-MVP-5004750)
 - [Migrate to Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate/?WT.mc_id=AZ-MVP-5004750)
 - [Official Azure Bicep Releases](https://github.com/Azure/bicep/releases/)
