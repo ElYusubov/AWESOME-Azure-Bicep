@@ -197,6 +197,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Control your Azure Bicep deployment flow with the fail function](https://johnlokerse.dev/2025/05/06/control-your-azure-bicep-deployment-flow-with-the-fail-function/)
 - [Convert ARM templates to Azure Bicep](https://johnlokerse.dev/2022/02/20/convert-arm-templates-to-azure-bicep/)
 - [Create your first Azure Bicep template](https://www.techielass.com/create-your-first-azure-bicep-template/)
+- [Create your own custom extension for Azure Bicep](https://johnlokerse.dev/2025/10/20/create-your-own-custom-extension-for-azure-bicep/)
 - [Create your own function in Azure Bicep with user-defined functions](https://johnlokerse.dev/2024/03/18/create-your-own-function-in-azure-bicep-with-user-defined-functions/)
 - [Creating an Azure Landing Zone using Bicep - Part 1](https://insight-services-apac.github.io/2023/12/15/azure-landing-bicep1)
 - [Creating an Azure Landing Zone using Bicep - Part 2](https://insight-services-apac.github.io/2023/12/18/azure-landing-bicep2)
