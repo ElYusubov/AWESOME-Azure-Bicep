@@ -21,6 +21,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
     - [Community Videos](#community-videos)
     - [Community Podcasts](#community-podcasts)
     - [Community Books](#community-books)
+    - [Community Courses](#community-courses)
     - [Community Articles](#community-articles)
     - [Community Tools](#community-tools)
     - [Community Repositories](#community-repositories)
@@ -154,6 +155,16 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Infrastructure as Code - With ARM templates and Bicep](https://www.manning.com/books/azure-infrastructure-as-code)
 - [Getting started with Bicep: Infrastructure as code](https://www.amazon.com/Getting-started-Bicep-Infrastructure-Azure-ebook/dp/B0984MQY2N)
 - [Infrastructure as Code with Azure Bicep](https://www.amazon.com/Infrastructure-Code-Azure-Bicep-complexities-ebook/dp/B09MFY582M/ref=pd_sim_sccl_1_1/138-4991526-2637316?pd_rd_w=Ehtas&pf_rd_p=262acb63-b997-4c81-83bd-9526eab7f618&pf_rd_r=51E2ZEVXM761ECZB2KYP&pd_rd_r=6566e50e-20b8-48dc-a42f-e45c27058abd&pd_rd_wg=JzrfD&pd_rd_i=B09MFY582M&psc=1)
+
+### Community Courses
+
+[Back To Top](#table-of-contents)
+
+- [Build custom Bicep extensions with Bicep Local Deploy](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/)
+  - [Introduction to Bicep Local Deploy extensions](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/introduction-to-bicep-local-deploy-extensions/)
+  - [Creating your first Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/creating-your-first-bicep-local-deploy-extension/)
+  - [Testing your Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/testing-your-bicep-local-deploy-extension/)
+  - [Documentation and publishing Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/documentation-and-publishing-bicep-local-deploy-extension/)
 
 ### Community Articles
 
@@ -328,4 +339,5 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Bicep Discussions / Forum](https://github.com/Azure/bicep/discussions)
 - [Azure Bicep Reddit](https://www.reddit.com/r/AzureBicep/)
 - [Azure Bicep users LinkedIn community](https://www.linkedin.com/groups/13004126/)
-- [Stackoverflow with Azure Bicep]()
+- [Stackoverflow with Azure Bicep](https://stackoverflow.com/questions/tagged/azure-bicep)
+
