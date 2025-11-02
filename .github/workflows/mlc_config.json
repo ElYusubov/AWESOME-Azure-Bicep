@@ -6,6 +6,9 @@
     },
     {
       "pattern": "^https://4sysops.com"
+    },
+    {
+       "pattern": "^https://stackoverflow.com"
     }
   ]
 }
