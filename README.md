@@ -301,6 +301,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Bicep Workshop - Deploy full stack app in Azure](https://github.com/erudinsky/Azure-Bicep-Workshop)
 - [Azure Deployment Framework](https://github.com/brwilkinson/AzureDeploymentFramework)
 - [Azure Update Manager Accelerator](https://github.com/ThojoUno/aumAccelerator)
+- [azure-cloud-ai-visualizer](https://github.com/error505/azure-cloud-ai-visualizer)
 - [Ba4bes/Bicep-NamingConvention](https://github.com/Ba4bes/Bicep-NamingConvention)
 - [Bicep Databricks extension](https://github.com/Gijsreyn/bicep-ext-databricks)
 - [Bicep Deploy What-If Without Write Permissions Demo](https://github.com/matsest/bicep-deploy-whatif-without-write-demo)
