@@ -160,11 +160,12 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
-- [Build custom Bicep extensions with Bicep Local Deploy](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/)
-  - [Introduction to Bicep Local Deploy extensions](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/introduction-to-bicep-local-deploy-extensions/)
+  - [Build custom Bicep extensions with Bicep Local Deploy](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/)
   - [Creating your first Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/creating-your-first-bicep-local-deploy-extension/)
-  - [Testing your Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/testing-your-bicep-local-deploy-extension/)
   - [Documentation and publishing Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/documentation-and-publishing-bicep-local-deploy-extension/)
+  - [Introduction to Bicep Local Deploy extensions](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/introduction-to-bicep-local-deploy-extensions/)
+  - [Testing your Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/testing-your-bicep-local-deploy-extension/)
+  
 
 ### Community Articles
 
