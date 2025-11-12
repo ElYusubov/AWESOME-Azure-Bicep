@@ -9,6 +9,9 @@
     },
     {
        "pattern": "^https://stackoverflow.com"
+    },
+    {
+       "pattern": "^https://www.linkedin.com"
     }
   ]
 }
