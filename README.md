@@ -146,7 +146,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#table-of-contents)
 
 - [Azure Greg chats to Elkhan Yusubov about Bicep, Cloud Marathoner and Cloud Journey](https://www.youtube.com/live/798YR9dRNmU)
-- [Azure Greg chats to Freek Berson about Bicep and covers 3 exciting new features ](https://www.youtube.com/live/E-j022nCRFM)
+- [Azure Greg chats to Freek Berson about Bicep and covers 3 exciting new features](https://www.youtube.com/live/E-j022nCRFM)
 - [Episode 21: Bicep with Alex Frankel](https://unhandledexceptionpodcast.com/posts/0021-bicep/)
 - [How to deploy an SAP system using Azure Bicep](https://podcasts.apple.com/gb/podcast/71-the-one-with-bicep-and-looking-at-cee-jan-tretina/id1531372929?i=1000544576527)
 
@@ -163,13 +163,12 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
-  - [Build custom Bicep extensions with Bicep Local Deploy](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/)
-  - [Creating your first Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/creating-your-first-bicep-local-deploy-extension/)
-  - [Documentation and publishing Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/documentation-and-publishing-bicep-local-deploy-extension/)
-  - [Introduction to Bicep Local Deploy extensions](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/introduction-to-bicep-local-deploy-extensions/)
-  - [Testing your Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/testing-your-bicep-local-deploy-extension/)
+- [Build custom Bicep extensions with Bicep Local Deploy](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/)
+- [Creating your first Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/creating-your-first-bicep-local-deploy-extension/)
+- [Documentation and publishing Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/documentation-and-publishing-bicep-local-deploy-extension/)
+- [Introduction to Bicep Local Deploy extensions](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/introduction-to-bicep-local-deploy-extensions/)
+- [Testing your Bicep Local Deploy extension](https://www.idontlikeai.dev/courses/build-custom-bicep-extensions-with-bicep-local-deploy/testing-your-bicep-local-deploy-extension/)
   
-
 ### Community Articles
 
 [Back To Top](#table-of-contents)
@@ -181,6 +180,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Addressing configuration drift using Deployment Stacks](https://insight-services-apac.github.io/2023/12/20/deployment-stacks)
 - [Apply Azure naming convention using Bicep functions](https://ronaldbosma.github.io/blog/2024/06/05/apply-azure-naming-convention-using-bicep-functions/)
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
+- [Automate Microsoft Graph Tasks with Azure Container App Jobs](https://cloudtips.nl/automate-microsoft-graph-tasks-with-azure-container-app-jobs-%EF%B8%8F-f0ee4d5ba658/)
 - [Automating Certificate Management with keyvault-acme](https://blog.builtwithcaffeine.cloud/posts/iac-keyvault-acme/)
 - [Azure best practice for Bicep with PSRule](https://rios.engineer/azure-spring-clean-azure-best-practice-for-bicep-with-psrule/)
 - [Azure Bicep Deployment with Deployment Stacks](https://luke.geek.nz/azure/Azure-Bicep-Deployment-with-Deployment-Stacks/)
@@ -254,6 +254,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Learning Infrastructure as Code (IaC): Variables vs Parameters](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-variables-and-parameters/)
 - [Mastering CIDRs With Azure Bicep](https://luke.geek.nz/azure/Working-with-CIDR-Azure-Bicep/)
 - [Monitoring canceled Azure Subscriptions](https://cloudadministrator.net/2025/03/12/monitoring-canceled-azure-subscriptions/)
+- [Microsoft Entra ID Governance — Automating Privileged Identity Management in Azure Landing Zones](https://cloudtips.nl/microsoft-entra-id-governance-automating-privileged-identity-management-in-azure-landing-zones-33327c1b4f6c/)
 - [Microsoft.Graph - Custom Bicep Modules](https://blog.builtwithcaffeine.cloud/posts/bicep-microsoft-graph-custom-modules/)
 - [Native Bicep deployments using Bicep's CLI](https://www.idontlikeai.dev/native-bicep-deployments-using-biceps-cli/)
 - [New ALZ Accelerator: lessons learned](https://azurescholar.cloud/new-alz-accelerator-lessons-learned)
@@ -345,4 +346,3 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Bicep Reddit](https://www.reddit.com/r/AzureBicep/)
 - [Azure Bicep users LinkedIn community](https://www.linkedin.com/groups/13004126/)
 - [Stackoverflow with Azure Bicep](https://stackoverflow.com/questions/tagged/azure-bicep)
-
