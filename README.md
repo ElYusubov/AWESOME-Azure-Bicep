@@ -226,6 +226,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Deploy Microsoft Security Copilot using Azure Bicep](https://cloudtips.nl/deploy-microsoft-security-copilot-using-azure-bicep-1c59c059e17b)
 - [Deploy Ubuntu VM with Prometheus and Grafana using Bicep Language](https://blog.azinsider.net/deploy-ubuntu-vm-with-prometheus-and-grafana-using-bicep-language-ca8164650482)
 - [Deploying Azure Bicep using GitHub Actions](https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/)
+- [Deploying Azure Bicep using GitHub Actions + Linting and validating](https://cloudtips.nl/deploying-azure-bicep-via-github-actions-3cc2d6025948/)
 - [Deployment Stacks for Bicep are awesome: a full walkthrough & sneak peek and of what's coming soon](https://www.linkedin.com/pulse/deployment-stacks-bicep-awesome-full-walkthrough-sneak-freek-berson/)
 - [Eliminate old API versions in your Azure Bicep templates](https://rios.engineer/eliminate-old-api-versions-in-your-azure-bicep-templates/)
 - [Enhance objects with User-Defined Types in Azure Bicep](https://johnlokerse.dev/2023/11/06/enhance-objects-with-user-defined-types-in-azure-bicep/)
