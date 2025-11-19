@@ -39,7 +39,7 @@ Follow these simple rules so lists stay clean and useful:
 - GitHub repository names should be lower-case (e.g., `my-bicep-samples`).
 - Sort items alphabetically within each section.
 - Prefer a short descriptive title and then the link. Example:
-  - How to use modules in Bicep — https://github.com/owner/repo
+  - Learn Bicep samples and posts — https://github.com/ElYusubov/Learn-Bicep
 - Keep external links to accessible resources (public docs, blogs, videos, repos).
 
 ---
@@ -48,14 +48,13 @@ Follow these simple rules so lists stay clean and useful:
 
 1. Open README.md in your fork and find the appropriate section (Official / Community).
 2. If a suitable sub-section exists, add your item there. If not, you can propose a new sub-section (see below).
-3. Add a single bullet in this format:
-   - Title — https://link.to/resource (Short optional note)
+3. Add a single bullet text in the format
 4. Put the new item in alphabetical order with similar entries.
 5. Commit and create a PR.
 
 Example patch (Markdown line to add):
 ```markdown
-- Bicep Modules Quickstart — https://github.com/owner/bicep-modules-quickstart (examples and notes)
+- Bicep Modules Quickstart — https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/modules (examples and notes)
 ```
 
 ---
@@ -127,7 +126,7 @@ Example PR description:
 - What: Add "Bicep Modules Quickstart" to Community → Repositories
 - Why: Provides clear module examples for beginners
 - Where: Community → Repositories
-- Link: https://github.com/owner/bicep-modules-quickstart
+- Link: https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/modules
 
 If you prefer, paste your suggested line in an issue and ask a maintainer to add it for you.
 
