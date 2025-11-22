@@ -18,6 +18,15 @@
     },
     {
        "pattern": "^https://cloudtips.nl"
+    },
+    {
+       "pattern": "^https://blog.azinsider.net"
+    },
+    {
+       "pattern": "^https://blog.azinsider.net"
+    },
+    {
+       "pattern": "^https://enlear.academy"
     }
   ]
 }
