@@ -12,6 +12,12 @@
     },
     {
        "pattern": "^https://www.linkedin.com"
+    },
+    {
+       "pattern": "^https://medium.com/codex"
+    },
+    {
+       "pattern": "^https://cloudtips.nl"
     }
   ]
 }
