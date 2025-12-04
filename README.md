@@ -203,6 +203,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep: Azure Virtual Network Manager](https://cloudmechanix.com/2025/07/17/bicep-azure-virtual-network-manager/)
 - [Bicep for Graph resources](https://msftplayground.com/2025/01/bicep-for-graph-resources)
 - [Bicep pattern parameter](https://msftplayground.com/2025/09/bicep-pattern-parameter)
+- [Bringing 'statefulness' to Azure Bicep in Pull Requests](https://blog.insight-services-apac.dev/2025/12/04/azure-bicep-snapshot-as-tf-state-like)
 - [Build a Custom Extension for Bicep](https://msftplayground.com/2025/09/bicep-custom-extension)
 - [Building our new Azure Data Landing Zone IP](https://insight-services-apac.github.io/2023/12/21/rapid-build-of-dlz-ip)
 - [Chaining Bicep Deployments using Outputs and Stage Dependencies in Azure Pipelines](https://johnlokerse.dev/2025/01/20/chaining-bicep-deployments-using-outputs-and-stage-dependencies-in-azure-pipelines/)
