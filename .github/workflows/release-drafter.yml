@@ -1,0 +1,21 @@
+name: Release Drafter
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  release-drafter:
+    name: Update Release Draft
+    permissions:
+      contents: write
+      pull-requests: write
+    runs-on: ubuntu-latest
+    steps:
+      # Drafts your next Release notes as Pull Requests are merged into "main"
+      - uses: release-drafter/release-drafter@v6
+        with:
+          config-name: release-drafter/config.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
