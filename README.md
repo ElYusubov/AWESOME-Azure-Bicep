@@ -213,6 +213,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Checkov now supports scan Bicep- Bicep + Checkov + Azure DevOps](https://enlear.academy/checkov-now-supports-scan-bicep-bicep-checkov-azure-devops-8e9573e6502d)
 - [Chicken and the Egg: How to Handle Bicep Interdependencies](https://blog.johnfolberth.com/chicken-and-the-egg-how-to-handle-bicep-interdependencies/)
 - [CloudInit in Azure: Zero-Touch Automation with Bicep](https://blog.builtwithcaffeine.cloud/posts/azure-cloudinit-automation/)
+- [Connect Microsoft AI Shell to Azure OpenAI Service with Azure Bicep](https://www.techielass.com/connect-ai-shell-azure-openai-guide/)
 - [Control your Azure Bicep deployment flow with the fail function](https://johnlokerse.dev/2025/05/06/control-your-azure-bicep-deployment-flow-with-the-fail-function/)
 - [Convert ARM templates to Azure Bicep](https://johnlokerse.dev/2022/02/20/convert-arm-templates-to-azure-bicep/)
 - [Create your first Azure Bicep template](https://www.techielass.com/create-your-first-azure-bicep-template/)
