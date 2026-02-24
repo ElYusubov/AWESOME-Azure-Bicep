@@ -198,8 +198,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Budgets leveraging Bicep Registries](https://blog.johnfolberth.com/azure-budgets-leveraging-bicep-registries/)
 - [Azure Deployment Stacks: Zero to Hero 🦾❤️](https://rios.engineer/azure-deployment-stacks-zero-to-hero-🦾❤%EF%B8%8F/)
 - [Azure Deployment Stacks: Linking Azure Deployment Stacks: Overcoming ARM Size Limits and Managing Dependencies](https://under-ctrl.com/posts/azure-deployment-stacks-arm-limits-p-1/)
-- [Azure Local | Bicep – Logical Networks](https://www.gettothe.cloud/azure-local-bicep-logical-networks/)
-- [Azure Local | Bicep – Marketplace Images](https://www.gettothe.cloud/azure-local-bicep-marketplace-images/)
 - [Azure Service Groups as Code: Vending the Multiverse With Bicep](https://www.devjev.nl/posts/2025/azure-service-groups-as-code-vending-the-multiverse-with-bicep/)
 - [Azure Verified Modules and private modules: a powerful combo](https://azurescholar.cloud/azure-verified-modules-and-private-modules-a-powerful-combo)
 - [Behind the scenes of Bicep.LocalDeploy: A Developer's Guide](https://www.idontlikeai.dev/behind-the-scenes-of-bicep-localdeploy-a-developers-guide/)
