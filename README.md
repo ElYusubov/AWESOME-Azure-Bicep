@@ -332,6 +332,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [fberson/wvd](https://github.com/fberson/wvd)
 - [gbaeke/aks-bicep](https://github.com/gbaeke/aks-bicep)
 - [globalbao/azure-policy-as-code](https://github.com/globalbao/azure-policy-as-code)
+- [Governance-with-Bicep](https://github.com/ElYusubov/Governance-with-Bicep)
 - [jamesatighe/AVD-BICEP](https://github.com/jamesatighe/AVD-BICEP)
 - [jaydestro/aksbicep](https://github.com/jaydestro/aksbicep)
 - [johnlokerse/azure-bicep-cheat-sheet](https://github.com/johnlokerse/azure-bicep-cheat-sheet)
