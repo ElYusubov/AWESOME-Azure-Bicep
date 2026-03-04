@@ -178,6 +178,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [A Bicep linting action for GitHub](https://msftplayground.com/2025/01/bicep-linting-action)
 - [A Gentle Introduction to Bicep](https://purple.telstra.com/blog/a-gentle-introduction-to-Bicep)
 - [Addressing configuration drift using Deployment Stacks](https://insight-services-apac.github.io/2023/12/20/deployment-stacks)
+- [Agent Skills for Azure Bicep with GitHub Copilot: From Manual Work to Automated Workflows](https://johnlokerse.dev/2026/02/02/agent-skills-for-azure-bicep-with-github-copilot-from-manual-work-to-automated-workflows/)
 - [Apply Azure naming convention using Bicep functions](https://ronaldbosma.github.io/blog/2024/06/05/apply-azure-naming-convention-using-bicep-functions/)
 - [ARM Templates Or Azure Bicep — What Should I Use?](https://medium.com/codex/arm-templates-or-azure-bicep-what-should-i-use-14e8662d3f27)
 - [Assign Microsoft Graph permissions using Azure Bicep](https://cloudtips.nl/assign-microsoft-graph-permissions-using-azure-bicep-740f0e6214c5)
