@@ -122,6 +122,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Build your first Azure Bicep Template](https://youtu.be/yTMYp2cR_Bg)
 - [Building Infrastructure as Code (IaC) with Azure Bicep: Part 1](https://www.linkedin.com/learning/building-infrastructure-as-code-iac-with-azure-bicep-part-1/learning-azure-bicep)
 - [Building Infrastructure-as-Code (IaC) with Azure Bicep: Part 2](https://www.linkedin.com/learning/building-infrastructure-as-code-iac-with-azure-bicep-part-2/learning-azure-bicep)
+- [Combining the power of Azure Verified Modules and private modules in a hybrid setup](https://www.youtube.com/watch?v=_yTMhDb9IPw)
 - [Day 5 - Data Types in Azure Bicep](https://youtu.be/wUvoVfMClPU?feature=shared)
 - [Day 9 - Master Functions & Operators in Azure Bicep](https://youtu.be/4wOc2r33kEs?feature=shared)
 - [Day 15 - Deploying a solution in Azure using Bicep to investigate Network Anomalies by Dave Rendon](https://youtu.be/mQ8MhKlLEFQ)
@@ -259,6 +260,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Improve code generation with custom instructions for GitHub Copilot](https://johnlokerse.dev/2024/11/11/improve-code-generation-with-custom-instruction-for-github-copilot/)
 - [Introducing the “Helm Install Command” Bicep Module: Streamlining AKS bootstrapping](https://pixelrobots.co.uk/2024/01/introducing-the-helm-install-command-bicep-module-streamlining-aks-bootstrapping/)
 - [Keep Hackers Out with Multi-User Authorization for Azure Backups using Azure Bicep](https://cloudtips.nl/keep-hackers-out-with-multi-user-authorization-for-azure-backups-dd4d7c0d3257)
+- [Landing Zones as Code: Modern Azure Foundations with GitOps](https://azurescholar.cloud/landing-zones-as-code-modern-azure-foundations-with-gitops)
 - [Learning Infrastructure as Code (IaC): Environment Setup](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-environment-setup/)
 - [Learning Infrastructure as Code (IaC): Variables vs Parameters](https://blog.builtwithcaffeine.cloud/posts/iac-bicep-variables-and-parameters/)
 - [Mastering CIDRs With Azure Bicep](https://luke.geek.nz/azure/Working-with-CIDR-Azure-Bicep/)
@@ -312,6 +314,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 [Back To Top](#table-of-contents)
 
 - [AzInsider Dave Rendon](https://github.com/daveRendon)
+- [Azure Agentic InfraOps Accelerator](https://github.com/jonathan-vella/azure-agentic-infraops-accelerator)
 - [Azure Bicep Advent Calendar - An Azure Bicep journey from basic to advanced aligned to an Advent Calendar](https://insight-services-apac.github.io/2023/11/27/intro-advent-calendar)
 - [Azure Bicep MCP Server Integration with other AI tools](https://github.com/johnlokerse/azure-bicep-mcp-integration-setup)
 - [Azure Bicep Workshop - Deploy full stack app in Azure](https://github.com/erudinsky/Azure-Bicep-Workshop)
