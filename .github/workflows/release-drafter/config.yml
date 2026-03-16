@@ -1,0 +1,75 @@
+name-template: 'v$RESOLVED_VERSION'
+tag-template: 'v$RESOLVED_VERSION'
+commitish: main
+
+categories:
+  - title: '⭐ New Links'
+    labels:
+      - add
+      - addition
+      - new link
+
+  - title: '🐛 Bug Fixes'
+    labels:
+      - fix
+      - bug
+      - bugfix
+      - dead link
+      - broken link
+
+  - title: '🧰 Maintenance'
+    labels:
+      - chore
+      - cleanup
+      - formatting
+      - reorder
+      - documentation
+
+autolabeler:
+  # Additions to the awesome list
+  - label: 'addition'
+    branch:
+      - '/add\/.+/'
+    title:
+      - '/add/i'
+    body:
+      - '/add/i'
+
+  - label: 'new link'
+    branch:
+      - '/add\/.+/'
+
+  # Fixes and bug related changes
+  - label: 'bug'
+    branch:
+      - '/fix\/.+/'
+    title:
+      - '/fix/i'
+
+  - label: 'fix'
+    branch:
+      - '/fix\/.+/'
+
+change-template: '$TITLE by @$AUTHOR in #$NUMBER'
+change-title-escapes: '\<*_&'
+
+version-resolver:
+  major:
+    labels:
+      - major
+  minor:
+    labels:
+      - minor
+  patch:
+    labels:
+      - patch
+  default: patch
+
+template: |
+  ## What's Changed
+  $CHANGES
+
+  Full Changelog: $PREVIOUS_TAG...v$RESOLVED_VERSION
+
+  Contributors  
+  $CONTRIBUTORS
