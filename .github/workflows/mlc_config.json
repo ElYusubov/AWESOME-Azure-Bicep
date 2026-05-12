@@ -30,6 +30,9 @@
     },
     {
        "pattern": "^https://andrewmatveychuk.com/"
+    },
+    {
+       "pattern": "^https://blog.johnfolberth.com/"
     }
   ]
 }
