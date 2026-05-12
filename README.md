@@ -1,6 +1,6 @@
 # AWESOME Azure Bicep 💪
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![Markdown Link Checker](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![Markdown Link Checker](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml/badge.svg)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/markdown-link-checker.yml) [![Copilot code review](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer/badge.svg)](https://github.com/ElYusubov/AWESOME-Azure-Bicep/actions/workflows/copilot-pull-request-reviewer/copilot-pull-request-reviewer)
 
 A curated list of AWESOME blogs, videos, tips-and-tricks, codes, tools, and scripts.
 Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to start deploying Azure resources to your favorite environment(s).
