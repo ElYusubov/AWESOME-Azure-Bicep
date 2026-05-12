@@ -347,6 +347,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [kevinevans1/learn-azure-bicep](https://github.com/kevinevans1/learn-azure-bicep)
 - [lordlinus/databricks-all-in-one-bicep-template](https://github.com/lordlinus/databricks-all-in-one-bicep-template)
 - [Master IaC with Azure Bicep at Global Azure Bootcamp Bulgaria 2025](https://github.com/slavizh/azure-bootcamp-2025)
+- [NimbusIQ - AI Cloud Architect with Azure Bicep infrastructure deployment](https://github.com/lukemurraynz/NimbusIQ)
 - [Packt Publishing - IaC with Azure Bicep](https://github.com/PacktPublishing/Infrastructure-as-Code-with-Azure-Bicep)
 - [PSBicep - Bicep PowerShell Module](https://github.com/PSBicep/PSBicep)
 - [PSBicep/BicepNet - A thin wrapper around Bicep that will load all bicep assemblies in a separate context](https://github.com/PSBicep/BicepNet)
