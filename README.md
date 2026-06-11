@@ -70,8 +70,13 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
+- [ALZ IaC Accelerator: Deploy Azure Landing Zone with IaC](https://www.youtube.com/watch?v=-X9P8VE94Po)
+- [Beyond the Basics - Growing into a Bicep Power user via Modules, Debugging & AI-Assisted IaC](https://www.youtube.com/live/y7G7aXwe6QY?si=Bc_61MgQ9glLoYOQ)
+- [Best practices for Infrastructure as Code CI / CD on Azure](https://www.youtube.com/watch?v=zdKxk6Bu-nU)
 - [Bicep Community Calls & Azure Deployment & Governance Channel](https://www.youtube.com/channel/UCZZ3-oMrVI5ssheMzaWC4uQ/videos)
 - [Build 2025 - Optimize Your Infrastructure as Code: Build Once, Deploy Anywhere](https://www.youtube.com/watch?v=wfLNifO0-Cs)
+- [Building Secure, Well‑Architected Azure Workloads with Azure Verified Modules and GitHub Copilot](https://www.youtube.com/watch?v=QBqRAMVTmwE)
+- [Deployment Stacks: Getting Started](https://www.youtube.com/watch?v=ckjfFcgpapc)
 - [How to use Azure Bicep for developing ARM templates | Azure Tips and Tricks](https://youtu.be/atWVFV7Y4vY)
 - [Learn everything about the next generation of ARM Templates](https://www.youtube.com/watch?v=sc1kJfcRQgY&t=6s)
 - [Learn Live - Build your first Bicep template](https://www.youtube.com/live/jncLNpZzDz0?feature=shared)
