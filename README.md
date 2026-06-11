@@ -322,6 +322,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 [Back To Top](#table-of-contents)
 
+- [AVM Resource Module: App Agent](https://github.com/lukemurraynz/avm-res-app-agent)
 - [AzInsider Dave Rendon](https://github.com/daveRendon)
 - [Azure Agentic InfraOps Accelerator](https://github.com/jonathan-vella/azure-agentic-infraops-accelerator)
 - [Azure Bicep Advent Calendar - An Azure Bicep journey from basic to advanced aligned to an Advent Calendar](https://insight-services-apac.github.io/2023/11/27/intro-advent-calendar)
