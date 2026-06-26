@@ -29,7 +29,10 @@
        "pattern": "^https://azurescholar.cloud"
     },
     {
-       "pattern": "^https://andrewmatveychuk.com/"
+       "pattern": "^https://andrewmatveychuk.com"
+    },
+    {
+      "pattern": "^https://4bes.nl"
     }
   ]
 }
