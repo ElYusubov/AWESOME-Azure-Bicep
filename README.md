@@ -312,6 +312,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [AzAdvertizer](https://www.azadvertizer.net/)
 - [Az-bootstrap - helps to set up Azure and GitHub environments for IaC projects](https://github.com/kewalaka/az-bootstrap)
 - [Azure Resource Name Generator PowerShell Module - Bicep files generation](https://github.com/mimachniak/AzureResources-NameGenerator)
+- [AzureNamer - web tool to generate CAF compliant Azure resource names and export Bicep](https://azurenamingconventions.com/)
 - [Azure Databricks Bicep Local Deploy extension](https://github.com/Gijsreyn/bicep-ext-databricks)
 - [Azure DevOps Bicep Local Deploy extension](https://github.com/johnlokerse/azure-devops-bicep-local-deploy)
 - [Bicep Local Extension - Password Generator](https://github.com/mimachniak/bicep-ext-PassWordGenerator)
