@@ -277,6 +277,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Microsoft Entra Kerberos authentication for Cloud-only Identities on Azure Files SMB](https://cloudtips.nl/microsoft-entra-kerberos-authentication-for-cloud-only-identities-on-azure-files-smb-%EF%B8%8F-8bc9465b0b6c/)
 - [Microsoft.Graph - Custom Bicep Modules](https://blog.builtwithcaffeine.cloud/posts/bicep-microsoft-graph-custom-modules/)
 - [Microsoft.Graph - Custom Security Group Module](https://blog.builtwithcaffeine.cloud/posts/msgraph-custom-module/)
+- [Microsoft.Graph - Custom User Module - Including B2B Guest Accounts](https://blog.builtwithcaffeine.cloud/posts/msgraph-bicep-guest-user-lookup/)
 - [Native Bicep deployments using Bicep's CLI](https://www.idontlikeai.dev/native-bicep-deployments-using-biceps-cli/)
 - [New ALZ Accelerator: lessons learned](https://azurescholar.cloud/new-alz-accelerator-lessons-learned)
 - [Passing Resources between Azure Bicep modules](https://cloudadministrator.net/2025/03/06/passing-resources-between-azure-bicep-modules/)
