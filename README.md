@@ -321,6 +321,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Bicep Local Extension - Password Generator](https://github.com/mimachniak/bicep-ext-PassWordGenerator)
 - [Bicep Playground](https://aka.ms/bicepdemo)
 - [Check-Azure-Bicep - pre-commit hooks for Azure Bicep validation](https://github.com/Azure4DevOps/check-azure-bicep)
+- [Cloudeval cloud architecture review](https://cloudeval.ai/answers/bicep-to-cloud-diagram) - Review ARM and Bicep templates with architecture diagrams and evidence-linked findings before deployment.
 - [GitHub Bicep Linting Action](https://github.com/marketplace/actions/bicep-linting)
 - [A module to run Bicep using PowerShell - Bicep 3.0.0](https://www.powershellgallery.com/packages/Bicep/3.0.0)
 
