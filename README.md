@@ -211,7 +211,6 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Service Groups for Flexible Resource Organization](https://cloudtips.nl/azure-service-groups-for-flexible-resource-organization-ade1cad9bffe)
 - [Azure Verified Modules and private modules: a powerful combo](https://azurescholar.cloud/azure-verified-modules-and-private-modules-a-powerful-combo)
 - [Behind the scenes of Bicep.LocalDeploy: A Developer's Guide](https://www.idontlikeai.dev/behind-the-scenes-of-bicep-localdeploy-a-developers-guide/)
-- [Bicep: Azure Virtual Network Manager](https://cloudmechanix.com/2025/07/17/bicep-azure-virtual-network-manager/)
 - [Bicep for Graph resources](https://msftplayground.com/2025/01/bicep-for-graph-resources)
 - [Bicep pattern parameter](https://msftplayground.com/2025/09/bicep-pattern-parameter)
 - [Bringing 'statefulness' to Azure Bicep in Pull Requests](https://blog.insight-services-apac.dev/2025/12/04/azure-bicep-snapshot-as-tf-state-like)
