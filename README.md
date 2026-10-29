@@ -245,6 +245,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Deploying A2A API in API Management with Azure Bicep](https://cloudadministrator.net/2026/02/05/deploying-a2a-api-in-api-management-with-azure-bicep/)
 - [Deploying Azure Bicep using GitHub Actions](https://thomasthornton.cloud/2021/04/12/deploying-azure-bicep-using-github-actions/)
 - [Deploying Azure Bicep using GitHub Actions + Linting and validating](https://cloudtips.nl/deploying-azure-bicep-via-github-actions-3cc2d6025948/)
+- [Deployment Stacks and the Protection That Doesn’t Survive a Move](https://awood.tech/azure-deployment-stacks-deny-settings-move-gap/)
 - [Deployment Stacks for Bicep are awesome: a full walkthrough & sneak peek and of what's coming soon](https://www.linkedin.com/pulse/deployment-stacks-bicep-awesome-full-walkthrough-sneak-freek-berson/)
 - [Distributing Bicep Modules with Token-Based Access Using ACR](https://pixelrobots.co.uk/2026/07/distributing-bicep-modules-with-token-based-access-using-acr/)
 - [Eliminate old API versions in your Azure Bicep templates](https://rios.engineer/eliminate-old-api-versions-in-your-azure-bicep-templates/)
