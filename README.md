@@ -9,18 +9,13 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ## Start Here for Beginners
 
-If you're new to Azure Bicep, this is the fastest way to go from zero to a working deployment.
+New to Bicep? Bicep lets you describe the Azure resources you want in a readable text file, then deploy them to Azure. Follow these four small labs in order to learn by doing.
 
-### Beginner learning path
+### Before you start
 
-1. Understand the basics: what Bicep is, why Infrastructure as Code matters, and how it differs from JSON ARM templates.
-2. Set up your environment with Azure CLI or PowerShell and make sure the Bicep tooling is available.
-3. Deploy your first resource, such as a storage account or resource group.
-4. Learn the core building blocks: parameters, variables, outputs, resources, modules, loops, and conditions.
-5. Move to real-world patterns: naming conventions, validation, tags, managed identities, and RBAC.
-6. Validate and troubleshoot deployments with `az deployment`, `bicep build`, and `what-if` workflows.
+Choose one way to deploy the labs: Azure CLI or PowerShell. Use its quick-start guide below to prepare your environment.
 
-### Recommended next steps
+### Set up and learn more
 
 - [Azure CLI quick start](./Azure-CLI.md)
 - [PowerShell quick start](./PowerShell.md)
@@ -28,16 +23,33 @@ If you're new to Azure Bicep, this is the fastest way to go from zero to a worki
 - [Official Bicep documentation](#official-docs)
 - [Community Articles](#community-articles)
 
-### Beginner-friendly starter project
+### Learn Bicep with four hands-on labs
 
-Start with the sample in [samples/01-storage-account](./samples/01-storage-account). It creates a simple Azure Storage account and helps you understand the basic structure of a Bicep file:
+Start with the [Bicep learning lab guide](./samples/README.md). Each lab has its own instructions, Bicep file, parameter file, and deployment scripts.
 
-- `param` for inputs
-- `resource` for Azure resources
-- `output` for returned values
-- parameter file usage for deployment
+1. **Create a storage account** — [Open Lab 1](./samples/01-storage-account). Learn how a Bicep file names a resource, accepts an input (`param`), and returns a result (`output`).
 
-This is the easiest way to get hands-on experience before moving on to more advanced examples.
+   **Try it:** Change a parameter and deploy again.
+
+2. **Add tags** — [Open Lab 2](./samples/02-storage-account-tags). Learn how to set labels on a resource and use a variable (`var`) to group tag values.
+
+   **Try it:** Change the environment from `dev` to `test` and check the tags.
+
+3. **Add a blob container** — [Open Lab 3](./samples/03-storage-account-with-container). Learn how to deploy related resources and connect a child resource to its parent with `parent`.
+
+   **Try it:** Change the container name and deploy again.
+
+4. **Build a web app with a module** — [Open Lab 4](./samples/04-webapp-with-storage-module). Learn how to put reusable resources in a separate Bicep file (a module), pass values to it, and use the values it returns.
+
+   **Try it:** Trace how the storage module’s outputs are used by the web app.
+
+### How to use each lab
+
+1. Read the lab's README and look through its `.bicep` and `.bicepparam` files.
+2. Deploy it with the Azure CLI or PowerShell script.
+3. Make the suggested change, deploy again, and check what changed in Azure.
+
+Use a test resource group for practice. Delete it when you finish to avoid leaving resources that may incur charges.
 
 ## Table Of Contents
 
