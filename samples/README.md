@@ -7,6 +7,7 @@ This folder contains a simple, beginner-friendly progression for learning Azure 
 1. [01-storage-account](./01-storage-account) - deploy your first Azure Storage account
 2. [02-storage-account-tags](./02-storage-account-tags) - add tags and environment-based values
 3. [03-storage-account-with-container](./03-storage-account-with-container) - create a storage account and blob container
+4. [04-webapp-with-storage-module](./04-webapp-with-storage-module) - create a web app and reuse a storage module to teach Bicep modularity
 
 ## How to use this lab
 
@@ -20,6 +21,7 @@ This folder contains a simple, beginner-friendly progression for learning Azure 
 - Parameters and parameter files
 - Variables and outputs
 - Resource declarations and nested resources
+- Modules and reusable deployment logic
 - Common deployment commands with Azure CLI and PowerShell
 
 ## Suggested learning approach
