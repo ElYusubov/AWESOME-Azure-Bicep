@@ -7,6 +7,29 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 > Community contributions are very welcome! Check out the [contribution guide](./CONTRIBUTING.md) and submit a **Pull Request** with your adds/removes/changes to the content!
 
+## Start Here for Beginners
+
+If you are new to Azure Bicep, start in this order:
+
+1. Learn the basics: what Bicep is, why it helps with Infrastructure as Code, and how it differs from JSON ARM templates.
+2. Set up your environment with Azure CLI or PowerShell and install the Bicep tooling.
+3. Deploy your first simple resource, such as a storage account or resource group.
+4. Learn core concepts: parameters, variables, outputs, resources, modules, loops, and conditions.
+5. Move to secure patterns: naming conventions, parameter validation, tags, managed identities, and RBAC.
+6. Validate and troubleshoot deployments with `az deployment` and `bicep build` / `what-if` workflows.
+
+### Recommended learning path
+
+- [Azure CLI quick start](./Azure-CLI.md)
+- [PowerShell quick start](./PowerShell.md)
+- [Official Microsoft Learn Bicep paths](#microsoft-learn)
+- [Official Bicep documentation](#official-docs)
+- [Community Articles](#community-articles)
+
+### Beginner-friendly starter project
+
+Try the sample in [samples/01-storage-account](./samples/01-storage-account) to deploy a simple Azure Storage account and understand the basic Bicep file structure.
+
 ## Table Of Contents
 
 - [AWESOME Azure Bicep 💪](#awesome-azure-bicep-)
