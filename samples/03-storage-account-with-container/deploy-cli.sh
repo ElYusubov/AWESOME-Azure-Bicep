@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+RESOURCE_GROUP="${1:-rg-bicep-lab}"
+LOCATION="${2:-eastus}"
+STORAGE_ACCOUNT_NAME="${3:-stgdemobicep003}"
+CONTAINER_NAME="${4:-learningcontainer}"
+
+az login
+az group create --name "$RESOURCE_GROUP" --location "$LOCATION"
+az deployment group create \
+  --resource-group "$RESOURCE_GROUP" \
+  --template-file ./main.bicep \
+  --parameters ./main.bicepparam \
+  --parameters storageAccountName="$STORAGE_ACCOUNT_NAME" containerName="$CONTAINER_NAME"
