@@ -90,6 +90,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Pipelines for Bicep Tasks](https://marketplace.visualstudio.com/items?itemName=piraces.bicep-tasks)
 - [Comparing JSON and Bicep for templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/compare-template-syntax?WT.mc_id=AZ-MVP-5004750)
 - [Decompiling ARM template JSON to Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/decompile?tabs=azure-cli&WT.mc_id=AZ-MVP-5004750)
+- [What-If for Azure Deployment Stacks](https://techcommunity.microsoft.com/blog/AzureGovernanceandManagementBlog/now-generally-available-what-if-for-azure-deployment-stacks/4547614)
 
 ### Official Repositories
 
@@ -207,6 +208,7 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 - [Azure Deployment Stacks: Zero to Hero 🦾❤️](https://rios.engineer/azure-deployment-stacks-zero-to-hero-🦾❤%EF%B8%8F/)
 - [Azure Deployment Stacks: Linking Azure Deployment Stacks: Overcoming ARM Size Limits and Managing Dependencies](https://under-ctrl.com/posts/azure-deployment-stacks-arm-limits-p-1/)
 - [Azure Deployment Stack What-If Previewing Template and Lifecycle Changes](https://mmachniak.net/2026/08/30/azure-stack-deployment-what-if/)
+- [Azure Policy Definition to Enforce IaC and Restrict Click Ops](https://blog.tyang.org/2026/08/12/policy-enforce-iac-restrict-click-ops)
 - [Azure Service Groups as Code: Vending the Multiverse With Bicep](https://www.devjev.nl/posts/2025/azure-service-groups-as-code-vending-the-multiverse-with-bicep/)
 - [Azure Service Groups for Flexible Resource Organization](https://cloudtips.nl/azure-service-groups-for-flexible-resource-organization-ade1cad9bffe)
 - [Azure Verified Modules and private modules: a powerful combo](https://azurescholar.cloud/azure-verified-modules-and-private-modules-a-powerful-combo)
