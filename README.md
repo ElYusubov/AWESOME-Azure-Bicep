@@ -9,16 +9,18 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 ## Start Here for Beginners
 
-If you are new to Azure Bicep, start in this order:
+If you're new to Azure Bicep, this is the fastest way to go from zero to a working deployment.
 
-1. Learn the basics: what Bicep is, why it helps with Infrastructure as Code, and how it differs from JSON ARM templates.
-2. Set up your environment with Azure CLI or PowerShell and install the Bicep tooling.
-3. Deploy your first simple resource, such as a storage account or resource group.
-4. Learn core concepts: parameters, variables, outputs, resources, modules, loops, and conditions.
-5. Move to secure patterns: naming conventions, parameter validation, tags, managed identities, and RBAC.
-6. Validate and troubleshoot deployments with `az deployment` and `bicep build` / `what-if` workflows.
+### Beginner learning path
 
-### Recommended learning path
+1. Understand the basics: what Bicep is, why Infrastructure as Code matters, and how it differs from JSON ARM templates.
+2. Set up your environment with Azure CLI or PowerShell and make sure the Bicep tooling is available.
+3. Deploy your first resource, such as a storage account or resource group.
+4. Learn the core building blocks: parameters, variables, outputs, resources, modules, loops, and conditions.
+5. Move to real-world patterns: naming conventions, validation, tags, managed identities, and RBAC.
+6. Validate and troubleshoot deployments with `az deployment`, `bicep build`, and `what-if` workflows.
+
+### Recommended next steps
 
 - [Azure CLI quick start](./Azure-CLI.md)
 - [PowerShell quick start](./PowerShell.md)
@@ -28,11 +30,19 @@ If you are new to Azure Bicep, start in this order:
 
 ### Beginner-friendly starter project
 
-Try the sample in [samples/01-storage-account](./samples/01-storage-account) to deploy a simple Azure Storage account and understand the basic Bicep file structure.
+Start with the sample in [samples/01-storage-account](./samples/01-storage-account). It creates a simple Azure Storage account and helps you understand the basic structure of a Bicep file:
+
+- `param` for inputs
+- `resource` for Azure resources
+- `output` for returned values
+- parameter file usage for deployment
+
+This is the easiest way to get hands-on experience before moving on to more advanced examples.
 
 ## Table Of Contents
 
 - [AWESOME Azure Bicep 💪](#awesome-azure-bicep-)
+  - [Start Here for Beginners](#start-here-for-beginners)
   - [Table Of Contents](#table-of-contents)
   - [Official](#official)
     - [Microsoft Learn](#microsoft-learn)
