@@ -21,6 +21,27 @@ This sample introduces Bicep modules and shows how a deployment can be broken in
 
 The main template calls a small module that creates the storage account and blob container. Once that module is complete, the main template creates an App Service plan and a web app. The web app receives values from the module, such as the storage account name and container name, through its application settings.
 
+## Resource diagram
+
+```mermaid
+flowchart LR
+    subgraph RG[Resource Group]
+        M[storage-with-container module]
+        SA[Storage Account]
+        BC[Blob Container]
+        ASP[App Service Plan]
+        WA[Azure Web App]
+    end
+
+    M --> SA
+    SA --> BC
+    ASP --> WA
+    SA -->|STORAGE_ACCOUNT_NAME app setting| WA
+    BC -->|STORAGE_CONTAINER_NAME app setting| WA
+```
+
+This diagram shows how the storage module creates the foundational data resources, while the main template provisions the application resources and passes the storage information into the web app configuration.
+
 ## Deploy with Azure CLI
 
 ```bash

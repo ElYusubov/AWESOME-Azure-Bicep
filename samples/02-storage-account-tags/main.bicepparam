@@ -1,4 +1,6 @@
 using './main.bicep'
 
-param storageAccountName = 'stgdemobicep002'
 param environment = 'dev'
+
+// Optional: override the generated, globally unique storage account name.
+// param storageAccountName = 'stmyuniquename002'

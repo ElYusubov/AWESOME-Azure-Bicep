@@ -5,7 +5,7 @@ This sample introduces nested resources and shows how a Bicep template can creat
 ## What you will learn
 
 - how to define nested resources
-- how `dependsOn` works in Bicep
+- how the `parent` property links child resources and creates the dependency for you (no `dependsOn` needed)
 - how to create a storage account and a blob container together
 
 ## Files in this sample

@@ -1,5 +1,7 @@
 using './main.bicep'
 
-param storageAccountName = 'stgdemobicep004'
-param webAppName = 'appdemobicep004'
 param containerName = 'learningcontainer'
+
+// Optional: override the generated, globally unique names.
+// param storageAccountName = 'stmyuniquename004'
+// param webAppName = 'app-my-unique-name-004'

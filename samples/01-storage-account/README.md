@@ -34,14 +34,14 @@ az deployment group create `
 You can also use the included scripts:
 
 ```bash
-./deploy-cli.sh rg-bicep-demo eastus stgdemobicep001
+./deploy-cli.sh rg-bicep-demo eastus
 ```
 
 ```powershell
-./deploy.ps1 -ResourceGroup 'rg-bicep-demo' -Location 'eastus' -StorageAccountName 'stgdemobicep001'
+./deploy.ps1 -ResourceGroup 'rg-bicep-demo' -Location 'eastus'
 ```
 
-Use a globally unique storage name, so replace `stgdemobicep001` with a unique value if needed.
+Storage account names must be globally unique across Azure. By default the template builds one with `uniqueString(resourceGroup().id)`, so you don't need to pick a name. To use your own, pass it as an extra argument (for example `./deploy-cli.sh rg-bicep-demo eastus stmyuniquename001`) or uncomment the line in `main.bicepparam`.
 
 ## What this sample teaches
 
