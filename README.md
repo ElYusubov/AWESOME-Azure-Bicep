@@ -7,9 +7,54 @@ Hand-picked tips and tricks to help you learn Azure Bicep and get you ready to s
 
 > Community contributions are very welcome! Check out the [contribution guide](./CONTRIBUTING.md) and submit a **Pull Request** with your adds/removes/changes to the content!
 
+## Start Here for Beginners
+
+New to Bicep? Bicep lets you describe the Azure resources you want in a readable text file, then deploy them to Azure. Follow these four small labs in order to learn by doing.
+
+### Before you start
+
+Choose one way to deploy the labs: Azure CLI or PowerShell. Use its quick-start guide below to prepare your environment.
+
+### Set up and learn more
+
+- [Azure CLI quick start](./Azure-CLI.md)
+- [PowerShell quick start](./PowerShell.md)
+- [Official Microsoft Learn Bicep paths](#microsoft-learn)
+- [Official Bicep documentation](#official-docs)
+- [Community Articles](#community-articles)
+
+### Learn Bicep with four hands-on labs
+
+Start with the [Bicep learning lab guide](./samples/README.md). Each lab has its own instructions, Bicep file, parameter file, and deployment scripts.
+
+1. **Create a storage account** — [Open Lab 1](./samples/01-storage-account). Learn how a Bicep file names a resource, accepts an input (`param`), and returns a result (`output`).
+
+   **Try it:** Change a parameter and deploy again.
+
+2. **Add tags** — [Open Lab 2](./samples/02-storage-account-tags). Learn how to set labels on a resource and use a variable (`var`) to group tag values.
+
+   **Try it:** Change the environment from `dev` to `test` and check the tags.
+
+3. **Add a blob container** — [Open Lab 3](./samples/03-storage-account-with-container). Learn how to deploy related resources and connect a child resource to its parent with `parent`.
+
+   **Try it:** Change the container name and deploy again.
+
+4. **Build a web app with a module** — [Open Lab 4](./samples/04-webapp-with-storage-module). Learn how to put reusable resources in a separate Bicep file (a module), pass values to it, and use the values it returns.
+
+   **Try it:** Trace how the storage module’s outputs are used by the web app.
+
+### How to use each lab
+
+1. Read the lab's README and look through its `.bicep` and `.bicepparam` files.
+2. Deploy it with the Azure CLI or PowerShell script.
+3. Make the suggested change, deploy again, and check what changed in Azure.
+
+Use a test resource group for practice. Delete it when you finish to avoid leaving resources that may incur charges.
+
 ## Table Of Contents
 
 - [AWESOME Azure Bicep 💪](#awesome-azure-bicep-)
+  - [Start Here for Beginners](#start-here-for-beginners)
   - [Table Of Contents](#table-of-contents)
   - [Official](#official)
     - [Microsoft Learn](#microsoft-learn)
