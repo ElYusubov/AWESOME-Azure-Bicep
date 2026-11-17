@@ -341,6 +341,7 @@ Use a test resource group for practice. Delete it when you finish to avoid leavi
 - [Seamlessly deploy Azure Front Door Premium with Private Endpoint to App Services with Azure Bicep](https://rios.engineer/seamlessly-deploy-azure-front-door-premium-with-private-endpoint-to-app-services/)
 - [Simplify Azure DevOps agent management with Managed DevOps Pools](https://johnlokerse.dev/2024/10/14/simplify-azure-devops-agent-management-with-managed-devops-pools/)
 - [Simplifying Azure IaC with Azure Bicep child resources](https://thecloudmarathoner.com/index.php/2022/03/01/simplifying-azure-iac-with-azure-bicep-child-resources/)
+- [Simplifying Azure infrastructure deployment with Bicep: validation, what-if, and deployment](https://devtoolhub.com/simplifying-azure-infrastructure-deployment-with-bicep-validation-what-if-and-deployment/)
 - [Subnetting in Azure Bicep](https://johnlokerse.dev/2023/08/21/subnetting-in-azure-bicep/)
 - [Testing Azure Bicep User-Defined Functions using Bicep Console and Pester](https://johnlokerse.dev/2026/04/07/testing-azure-bicep-user-defined-functions-using-bicep-console-and-pester/)
 - [Testing and Validation of Bicep Templates using PSRule](https://insight-services-apac.github.io/2023/12/13/psrule-bicep)
