@@ -371,6 +371,7 @@ Use a test resource group for practice. Delete it when you finish to avoid leavi
 - [Bicep Playground](https://aka.ms/bicepdemo)
 - [Bicep Testing Framework](https://anthony-c-martin.github.io/bicep-testing/#csharp)
 - [Check-Azure-Bicep - pre-commit hooks for Azure Bicep validation](https://github.com/Azure4DevOps/check-azure-bicep)
+- [Cloudeval cloud architecture review](https://cloudeval.ai/answers/bicep-to-cloud-diagram) - Review ARM and Bicep templates with architecture diagrams and evidence-linked findings before deployment.
 - [GitHub Bicep Linting Action](https://github.com/marketplace/actions/bicep-linting)
 - [A module to run Bicep using PowerShell - Bicep 3.0.0](https://www.powershellgallery.com/packages/Bicep/3.0.0)
 
